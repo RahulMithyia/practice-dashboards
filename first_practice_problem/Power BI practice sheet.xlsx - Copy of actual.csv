@@ -1,0 +1,993 @@
+date,Name,Category,Product Name,State,Gender,Quantity,Cost,Price,Purchase Cost,Sale Price,Profit
+01/04/2024,Bharat Innovations,Electronic,Speaker,Delhi,Male,29,924,1482,26796,42978,16182
+01/04/2024,Green Leaf Enterprises,Electronic,Earbuds,Maharashtra,Male,30,817,997,24510,29910,5400
+01/04/2024,Urban Pulse Technologies,Electronic,Earbuds,West Bengal,Male,23,753,1006,17319,23138,5819
+01/04/2024,Mystic India Exports,Electronic,Earbuds,Tamil Nadu,Male,26,809,1375,21034,35750,14716
+01/04/2024,Golden Horizon Ventures,Fashion ,Women dress,Karnataka,Male,95,936,901,88920,85595,-3325
+06/04/2024,Eternal Traditions,Fashion ,Women dress,Telangana,Male,84,784,1189,65856,99876,34020
+07/04/2024,Apex Solutions,Fashion ,Women dress,Gujarat,Male,55,637,969,35035,53295,18260
+08/04/2024,Harmony Foods,Fashion ,Women dress,Maharashtra,Male,51,847,1245,43197,63495,20298
+10/04/2024,Pure Essence Skincare,Electronic,Speaker,Rajasthan,Female,23,852,1365,19596,31395,11799
+10/04/2024,Zenith Construction Co.,Electronic,Speaker,Gujarat,Female,24,903,1161,21672,27864,6192
+11/04/2024,Radiant Health Systems,Electronic,Speaker,Uttar Pradesh,Female,21,829,1269,17409,26649,9240
+12/04/2024,Divine Creations,Electronic,Speaker,Uttar Pradesh,Female,20,557,952,11140,19040,7900
+13/04/2024,Metro Tech Solutions,Electronic,Speaker,Maharashtra,Female,29,951,1198,27579,34742,7163
+14/04/2024,True Path Logistics,Electronic,Speaker,Madhya Pradesh,Female,20,648,1432,12960,28640,15680
+15/04/2024,Sacred Roots Apparel,Fashion ,Male dress,Maharashtra,Female,68,534,1235,36312,83980,47668
+16/04/2024,Quantum Finance Services,Fashion ,Male dress,Chandigarh,Female,68,575,1014,39100,68952,29852
+17/04/2024,Brilliant Minds Academy,Fashion ,Male dress,Madhya Pradesh,Female,79,537,955,42423,75445,33022
+18/04/2024,Visionary Holdings,Fashion ,Male dress,Andhra Pradesh,Female,65,935,1205,60775,78325,17550
+19/04/2024,Stellar Design Studio,Fashion ,Male dress,Bihar,Female,66,709,1106,46794,72996,26202
+20/04/2024,Classic Cuisines,Fashion ,Male dress,Gujarat,Male,70,751,936,52570,65520,12950
+21/04/2024,Bold Ventures,Fashion ,Male dress,Uttar Pradesh,Male,75,686,1081,51450,81075,29625
+22/04/2024,Prestige Automobiles,Electronic,TV,Uttar Pradesh,Male,26,942,944,24492,24544,52
+23/04/2024,Elite Marketing Solutions,Electronic,TV,Tamil Nadu,Male,25,958,1393,23950,34825,10875
+24/04/2024,Natural Bliss Beverages,Electronic,TV,Tamil Nadu,Male,20,606,1106,12120,22120,10000
+25/04/2024,Crystal Clear Solutions,Electronic,TV,Rajasthan,Female,26,520,1494,13520,38844,25324
+26/04/2024,Modern Trends Fashion,Electronic,TV,Uttar Pradesh,Female,22,822,1279,18084,28138,10054
+27/04/2024,Heritage Crafts,Electronic,TV,Jharkhand,Female,26,505,908,13130,23608,10478
+28/04/2024,Future Insights Analytics,Electronic,TV,Kerala,Female,23,649,1326,14927,30498,15571
+29/04/2024,Emerald Estate Developers,Electronic,TV,Maharashtra,Female,26,647,1200,16822,31200,14378
+30/04/2024,Starlight Media Group,Electronic,TV,Himachal Pradesh,Female,30,843,1089,25290,32670,7380
+01/05/2024,Supreme Electronics,Electronic,TV,Uttarakhand,Female,21,571,1022,11991,21462,9471
+02/05/2024,Optimum Wellness,Electronic,TV,Assam,Male,25,909,1391,22725,34775,12050
+03/05/2024,Zenith Books Publishing,Electronic,TV,Punjab,Male,24,584,1343,14016,32232,18216
+04/05/2024,Pinnacle Innovations,Electronic,TV,Chhattisgarh,Male,28,787,1021,22036,28588,6552
+05/05/2024,Apex Travel Services,Electronic,TV,West Bengal,Male,23,768,901,17664,20723,3059
+06/05/2024,Golden Era Realty,Electronic,TV,West Bengal,Female,23,584,1386,13432,31878,18446
+07/05/2024,Radiant Jewelry,Electronic,Laptop,Madhya Pradesh,Female,20,778,957,15560,19140,3580
+08/05/2024,Infinity Ventures,Electronic,Laptop,Jharkhand,Female,26,595,970,15470,25220,9750
+09/05/2024,Royal Taste Foods,Electronic,Laptop,West Bengal,Female,27,722,1143,19494,30861,11367
+10/05/2024,Harmony Homes,Electronic,Laptop,Karnataka,Female,25,982,1343,24550,33575,9025
+11/05/2024,Urban Edge Consulting,Electronic,Laptop,Delhi,Female,25,982,1459,24550,36475,11925
+12/05/2024,Prime Tech Innovations,Electronic,Laptop,Maharashtra,Female,25,810,1443,20250,36075,15825
+13/05/2024,Legacy Designs,Electronic,Laptop,West Bengal,Female,26,781,1094,20306,28444,8138
+14/05/2024,Virtue Enterprises,Electronic,Laptop,Tamil Nadu,Female,26,630,953,16380,24778,8398
+15/05/2024,Radiant Health Club,Electronic,Laptop,Karnataka,Female,23,972,1370,22356,31510,9154
+16/05/2024,Bright Horizon Ventures,Electronic,Laptop,Telangana,Male,30,987,1452,29610,43560,13950
+17/05/2024,Modern Lifestyle Products,Electronic,Laptop,Gujarat,Male,25,877,1016,21925,25400,3475
+18/05/2024,Nexus Trading Co.,Electronic,Laptop,Maharashtra,Male,26,596,1415,15496,36790,21294
+19/05/2024,Radiance Spa,Fashion ,Saree,Rajasthan,Male,91,518,1350,47138,122850,75712
+20/05/2024,Absolute Solutions,Fashion ,Saree,Gujarat,Male,79,616,1128,48664,89112,40448
+21/05/2024,Verve Fitness Studio,Fashion ,Saree,Uttar Pradesh,Female,96,791,1404,75936,134784,58848
+22/05/2024,Sparkle Cleaners,Fashion ,Saree,Uttar Pradesh,Female,69,864,1111,59616,76659,17043
+23/05/2024,Global Reach Logistics,Fashion ,Saree,Maharashtra,Female,55,782,1153,43010,63415,20405
+24/05/2024,Noble Path Finance,Fashion ,Saree,Madhya Pradesh,Female,71,653,1185,46363,84135,37772
+25/05/2024,Dynamic Events Management,Fashion ,Saree,Maharashtra,Female,88,959,1169,84392,102872,18480
+26/05/2024,Crystal Waters Resort,Fashion ,Saree,Chandigarh,Female,72,805,1303,57960,93816,35856
+27/05/2024,Excellence Tutors,Fashion ,Saree,Madhya Pradesh,Female,53,665,1100,35245,58300,23055
+28/05/2024,Horizon Builders,Fashion ,Saree,Andhra Pradesh,Male,88,607,1295,53416,113960,60544
+29/05/2024,Synergy Tech Solutions,Fashion ,Saree,Bihar,Male,50,639,1329,31950,66450,34500
+30/05/2024,Classic Heritage Crafts,Fashion ,Saree,Gujarat,Male,99,657,895,65043,88605,23562
+31/05/2024,Prime Focus Media,Fashion ,Suit,Uttar Pradesh,Male,88,977,1391,85976,122408,36432
+01/06/2024,Noble Nutraceuticals,Fashion ,Suit,Uttar Pradesh,Female,81,528,946,42768,76626,33858
+02/06/2024,Supreme Travel Agency,Fashion ,Suit,Tamil Nadu,Male,74,870,959,64380,70966,6586
+03/06/2024,Future Vision Tech,Fashion ,Suit,Tamil Nadu,Male,83,655,1181,54365,98023,43658
+04/06/2024,Urban Groove Apparel,Fashion ,Suit,Rajasthan,Male,99,649,1453,64251,143847,79596
+05/06/2024,Echo Real Estate,Fashion ,Suit,Uttar Pradesh,Male,97,917,1203,88949,116691,27742
+06/06/2024,Pinnacle Health Products,Fashion ,Suit,Jharkhand,Female,57,793,1022,45201,58254,13053
+07/06/2024,Apex Auto Care,Fashion ,Suit,Kerala,Female,84,931,1354,78204,113736,35532
+08/06/2024,Royal Glow Cosmetics,Fashion ,Suit,Maharashtra,Female,76,901,1122,68476,85272,16796
+09/06/2024,Zenith Culinary Arts,Fashion ,Suit,Himachal Pradesh,Female,93,658,1108,61194,103044,41850
+10/06/2024,Visionary Tours,Fashion ,Suit,Uttarakhand,Female,68,651,1494,44268,101592,57324
+11/06/2024,Horizon Wellness,Decor,Car accessories,Assam,Female,17,938,1332,15946,22644,6698
+12/06/2024,True Value Electronics,Decor,Car accessories,Punjab,Female,18,920,1162,16560,20916,4356
+13/06/2024,Harmony Homes Realty,Decor,Car accessories,Chhattisgarh,Female,20,731,1228,14620,24560,9940
+14/06/2024,Stellar Advertising,Decor,Car accessories,West Bengal,Female,17,750,931,12750,15827,3077
+15/06/2024,Radiant Enterprise Solutions,Decor,Car accessories,West Bengal,Female,20,827,1478,16540,29560,13020
+16/06/2024,Modern Trends Retail,Decor,Car accessories,Madhya Pradesh,Male,14,906,1486,12684,20804,8120
+17/06/2024,Global Spectrum Consulting,Decor,Car accessories,Jharkhand,Male,20,699,1246,13980,24920,10940
+18/06/2024,Elite Essence Products,Fashion ,Saree,West Bengal,Male,98,596,1086,58408,106428,48020
+19/06/2024,Dynamic Creations,Fashion ,Saree,Karnataka,Male,84,911,1132,76524,95088,18564
+20/06/2024,Quantum Design Studio,Fashion ,Saree,Delhi,Male,81,702,1318,56862,106758,49896
+21/06/2024,Infinite Solutions,Fashion ,Saree,Maharashtra,Female,75,859,1176,64425,88200,23775
+22/06/2024,Apex Construction,Fashion ,Saree,West Bengal,Female,58,510,1104,29580,64032,34452
+23/06/2024,Legacy Innovations,Fashion ,Suit,Tamil Nadu,Female,59,506,1462,29854,86258,56404
+24/06/2024,Pure Harmony Foods,Fashion ,Suit,Karnataka,Male,51,868,935,44268,47685,3417
+25/06/2024,Zenith Security Systems,Fashion ,Suit,Telangana,Male,76,602,1494,45752,113544,67792
+26/06/2024,Crystal Clear Beverages,Fashion ,Suit,Gujarat,Male,55,928,893,51040,49115,-1925
+27/06/2024,Metro Line Tech,Fashion ,Suit,Maharashtra,Male,74,758,988,56092,73112,17020
+28/06/2024,Urban Pulse Consulting,Fashion ,Suit,Rajasthan,Male,88,566,951,49808,83688,33880
+29/06/2024,Radiant Vision Studios,Decor,Home décor,Gujarat,Female,17,537,1035,9129,17595,8466
+30/06/2024,Noble Travel Services,Decor,Home décor,Uttar Pradesh,Female,20,875,1255,17500,25100,7600
+01/07/2024,Bright Future Academy,Decor,Home décor,Uttar Pradesh,Female,13,917,1412,11921,18356,6435
+02/07/2024,Synergy Solutions Group,Decor,Home décor,Maharashtra,Female,15,910,1363,13650,20445,6795
+03/07/2024,Visionary Health Systems,Decor,Home décor,Madhya Pradesh,Female,12,980,1281,11760,15372,3612
+04/07/2024,Apex Retailers,Decor,Home décor,Maharashtra,Female,12,734,1109,8808,13308,4500
+05/07/2024,Prestige Property Developers,Decor,Home décor,Chandigarh,Female,12,913,1371,10956,16452,5496
+06/07/2024,Classic Trends Fashion,Decor,Home décor,Madhya Pradesh,Male,20,833,1054,16660,21080,4420
+07/07/2024,Harmony Ventures,Decor,Home décor,Andhra Pradesh,Male,17,748,1002,12716,17034,4318
+08/07/2024,Stellar Realty,Decor,Home décor,Bihar,Male,20,517,975,10340,19500,9160
+09/07/2024,Future Path Technologies,Decor,Home décor,Gujarat,Male,18,674,1099,12132,19782,7650
+10/07/2024,Elite Edge Services,Decor,Home décor,Uttar Pradesh,Female,17,641,982,10897,16694,5797
+11/07/2024,Radiance Health and Wellness,Electronic,Laptop,Uttar Pradesh,Male,26,771,917,20046,23842,3796
+12/07/2024,Legacy Auto Works,Electronic,Laptop,Tamil Nadu,Male,30,859,1317,25770,39510,13740
+13/07/2024,Prime Essence Creations,Electronic,Laptop,Tamil Nadu,Male,30,726,1323,21780,39690,17910
+14/07/2024,Quantum Ventures,Electronic,Laptop,Rajasthan,Male,29,861,1045,24969,30305,5336
+15/07/2024,Horizon Tech Solutions,Electronic,Laptop,Uttar Pradesh,Female,26,627,1079,16302,28054,11752
+16/07/2024,Urban Legends Apparel,Electronic,Laptop,Jharkhand,Female,24,978,1319,23472,31656,8184
+17/07/2024,Pure Bliss Beverages,Electronic,Laptop,Kerala,Female,30,514,1418,15420,42540,27120
+18/07/2024,Noble Heights Builders,Electronic,Laptop,Maharashtra,Female,26,656,1363,17056,35438,18382
+19/07/2024,Radiant Foods,Electronic,Laptop,Himachal Pradesh,Female,28,866,897,24248,25116,868
+20/07/2024,Zenith Financial Services,Electronic,Laptop,Uttarakhand,Female,23,969,1485,22287,34155,11868
+21/07/2024,Apex Travel Ventures,Electronic,Laptop,Assam,Female,21,626,931,13146,19551,6405
+22/07/2024,Legacy Design Group,Fashion ,Saree,Punjab,Female,58,898,1125,52084,65250,13166
+23/07/2024,Supreme Wellness,Fashion ,Saree,Chhattisgarh,Female,83,943,994,78269,82502,4233
+24/07/2024,Harmony Tech Innovations,Fashion ,Saree,West Bengal,Female,85,641,952,54485,80920,26435
+25/07/2024,Stellar Education Services,Fashion ,Saree,West Bengal,Female,57,784,1089,44688,62073,17385
+26/07/2024,Visionary Health Products,Fashion ,Saree,Madhya Pradesh,Female,98,579,1173,56742,114954,58212
+27/07/2024,Crystal Innovations,Fashion ,Saree,Jharkhand,Female,98,605,1491,59290,146118,86828
+28/07/2024,Future Trends Retail,Fashion ,Saree,West Bengal,Female,63,952,1435,59976,90405,30429
+29/07/2024,Radiant Horizon Ventures,Fashion ,Saree,Karnataka,Female,91,938,928,85358,84448,-910
+30/07/2024,Urban Edge Realty,Fashion ,Saree,Delhi,Male,66,512,1281,33792,84546,50754
+31/07/2024,Prime Focus Innovations,Fashion ,Saree,Maharashtra,Male,88,691,1014,60808,89232,28424
+01/08/2024,Elite Spectrum Consulting,Fashion ,Saree,West Bengal,Male,54,518,1038,27972,56052,28080
+02/08/2024,Dynamic Design Studio,Fashion ,Saree,Tamil Nadu,Male,67,780,1238,52260,82946,30686
+03/08/2024,Apex Wellness Solutions,Fashion ,Suit,Karnataka,Male,86,540,1478,46440,127108,80668
+04/08/2024,Royal Crest Foods,Fashion ,Suit,Telangana,Female,85,853,1388,72505,117980,45475
+05/08/2024,Zenith Travels,Fashion ,Suit,Gujarat,Female,69,745,1294,51405,89286,37881
+06/08/2024,Modern Harmony Products,Decor,Home décor,Maharashtra,Female,10,754,1209,7540,12090,4550
+07/08/2024,Horizon Builders & Developers,Decor,Home décor,Rajasthan,Female,14,815,1202,11410,16828,5418
+08/08/2024,Radiance Tech Solutions,Decor,Home décor,Gujarat,Female,10,863,1124,8630,11240,2610
+09/08/2024,Legacy Apparel,Decor,Home décor,Uttar Pradesh,Female,18,704,1257,12672,22626,9954
+10/08/2024,Pinnacle Education Group,Decor,Home décor,Uttar Pradesh,Female,19,744,1498,14136,28462,14326
+11/08/2024,Noble Innovations,Decor,Home décor,Maharashtra,Male,10,669,920,6690,9200,2510
+12/08/2024,Crystal Clear Realty,Decor,Home décor,Madhya Pradesh,Male,20,966,955,19320,19100,-220
+13/08/2024,Future Vision Realty,Electronic,Laptop,Maharashtra,Male,26,715,1015,18590,26390,7800
+14/08/2024,Urban Pulse Media,Electronic,Laptop,Chandigarh,Male,27,611,1197,16497,32319,15822
+15/08/2024,True Essence Health,Electronic,Laptop,Madhya Pradesh,Female,29,544,929,15776,26941,11165
+16/08/2024,Apex Enterprise Solutions,Electronic,Laptop,Andhra Pradesh,Male,26,715,929,18590,24154,5564
+17/08/2024,Radiant Vision Realty,Electronic,Laptop,Bihar,Male,30,652,1488,19560,44640,25080
+18/08/2024,Harmony Consulting Group,Electronic,Laptop,Gujarat,Male,22,681,1367,14982,30074,15092
+19/08/2024,Zenith Tech Ventures,Electronic,Laptop,Uttar Pradesh,Male,28,923,1253,25844,35084,9240
+20/08/2024,Stellar Health Services,Electronic,Laptop,Uttar Pradesh,Female,26,999,1382,25974,35932,9958
+21/08/2024,Pure Path Foods,Electronic,Laptop,Tamil Nadu,Female,30,792,1239,23760,37170,13410
+22/08/2024,Prestige Solutions,Electronic,Laptop,Tamil Nadu,Female,23,923,1333,21229,30659,9430
+23/08/2024,Bright Horizon Realty,Electronic,Laptop,Rajasthan,Female,22,774,921,17028,20262,3234
+24/08/2024,Quantum Media Group,Fashion ,Saree,Uttar Pradesh,Female,63,525,1124,33075,70812,37737
+25/08/2024,Legacy Builders,Fashion ,Saree,Jharkhand,Female,73,709,1096,51757,80008,28251
+26/08/2024,Apex Spa & Wellness,Fashion ,Saree,Kerala,Female,74,914,1026,67636,75924,8288
+27/08/2024,Radiant Travel Services,Fashion ,Saree,Maharashtra,Female,84,558,1154,46872,96936,50064
+28/08/2024,Modern Trends Consulting,Fashion ,Saree,Himachal Pradesh,Female,99,934,893,92466,88407,-4059
+29/08/2024,Global Horizon Ventures,Fashion ,Saree,Uttarakhand,Female,52,576,1479,29952,76908,46956
+30/08/2024,Elite Enterprises,Fashion ,Saree,Assam,Male,98,769,1077,75362,105546,30184
+31/08/2024,Urban Wave Solutions,Fashion ,Saree,Punjab,Male,89,910,906,80990,80634,-356
+01/09/2024,Pinnacle Health Innovations,Fashion ,Saree,Chhattisgarh,Male,73,627,1089,45771,79497,33726
+02/09/2024,Horizon Fashion,Fashion ,Suit,West Bengal,Male,93,847,1090,78771,101370,22599
+03/09/2024,Crystal Essence Beverages,Fashion ,Suit,West Bengal,Male,84,522,1232,43848,103488,59640
+04/09/2024,Dynamic Pathways,Fashion ,Suit,Madhya Pradesh,Female,85,564,1464,47940,124440,76500
+05/09/2024,Visionary Realty Solutions,Fashion ,Suit,Jharkhand,Female,59,764,1003,45076,59177,14101
+06/09/2024,Radiance Apparel,Fashion ,Suit,West Bengal,Female,93,579,1119,53847,104067,50220
+07/09/2024,Zenith Design Group,Fashion ,Suit,Karnataka,Male,56,724,1094,40544,61264,20720
+08/09/2024,Apex Publishing House,Decor,Home décor,Delhi,Male,18,859,942,15462,16956,1494
+09/09/2024,True Value Consulting,Decor,Home décor,Maharashtra,Male,15,890,936,13350,14040,690
+10/09/2024,Future Path Ventures,Decor,Home décor,West Bengal,Male,19,630,906,11970,17214,5244
+11/09/2024,Stellar Tech Services,Decor,Home décor,Tamil Nadu,Male,10,701,1307,7010,13070,6060
+12/09/2024,Legacy Travel Agency,Decor,Home décor,Karnataka,Female,19,653,1162,12407,22078,9671
+13/09/2024,Harmony Innovations,Decor,Home décor,Telangana,Female,14,968,1290,13552,18060,4508
+14/09/2024,Pure Essence Solutions,Decor,Home décor,Gujarat,Female,14,857,960,11998,13440,1442
+15/09/2024,Elite Media Group,Decor,Home décor,Maharashtra,Female,20,508,1169,10160,23380,13220
+16/09/2024,Radiant Construction,Decor,Home décor,Rajasthan,Female,12,539,953,6468,11436,4968
+17/09/2024,Pinnacle Finance,Decor,Home décor,Gujarat,Female,10,731,962,7310,9620,2310
+18/09/2024,Horizon Tech Ventures,Decor,Home décor,Uttar Pradesh,Female,15,621,1388,9315,20820,11505
+19/09/2024,Crystal Health Solutions,Decor,Home décor,Uttar Pradesh,Male,14,515,1137,7210,15918,8708
+20/09/2024,Modern Horizons Consulting,Fashion ,Suit,Maharashtra,Male,60,783,1362,46980,81720,34740
+21/09/2024,Apex Realty Services,Fashion ,Suit,Madhya Pradesh,Male,81,948,907,76788,73467,-3321
+22/09/2024,Zenith Educational Group,Fashion ,Suit,Maharashtra,Male,80,771,908,61680,72640,10960
+23/09/2024,True Path Ventures,Fashion ,Suit,Chandigarh,Female,88,943,965,82984,84920,1936
+24/09/2024,Radiance Media,Fashion ,Suit,Madhya Pradesh,Male,68,909,1146,61812,77928,16116
+25/09/2024,Legacy Health Systems,Fashion ,Suit,Andhra Pradesh,Male,65,568,1241,36920,80665,43745
+26/09/2024,Urban Focus Products,Fashion ,Suit,Bihar,Male,58,758,1261,43964,73138,29174
+27/09/2024,Elite Edge Consulting,Decor,Car accessories,Gujarat,Male,16,963,1136,15408,18176,2768
+28/09/2024,Stellar Travel Solutions,Decor,Car accessories,Uttar Pradesh,Female,15,650,1222,9750,18330,8580
+29/09/2024,Harmony Tech Ventures,Decor,Car accessories,Uttar Pradesh,Female,13,762,1475,9906,19175,9269
+30/09/2024,Pure Harmony Solutions,Decor,Car accessories,Tamil Nadu,Female,15,825,1350,12375,20250,7875
+01/10/2024,Radiant Fitness Studio,Decor,Car accessories,Tamil Nadu,Female,14,909,1118,12726,15652,2926
+02/10/2024,Zenith Finance Co.,Decor,Car accessories,Rajasthan,Female,11,858,1474,9438,16214,6776
+03/10/2024,Apex Events Management,Decor,Car accessories,Uttar Pradesh,Female,12,516,1033,6192,12396,6204
+04/10/2024,Visionary Innovations,Fashion ,Saree,Jharkhand,Female,61,604,904,36844,55144,18300
+05/10/2024,Horizon Design Studio,Fashion ,Saree,Kerala,Female,62,641,1074,39742,66588,26846
+06/10/2024,Modern Spectrum Solutions,Fashion ,Saree,Maharashtra,Female,92,923,1138,84916,104696,19780
+07/10/2024,Legacy Tech Products,Fashion ,Saree,Himachal Pradesh,Female,53,913,1055,48389,55915,7526
+08/10/2024,Pinnacle Wellness Services,Fashion ,Saree,Uttarakhand,Female,56,840,1455,47040,81480,34440
+09/10/2024,Urban Insight Consulting,Fashion ,Suit,Assam,Female,85,541,1247,45985,105995,60010
+10/10/2024,Crystal Horizons,Fashion ,Suit,Punjab,Female,56,611,1357,34216,75992,41776
+11/10/2024,Radiant Apparel,Fashion ,Suit,Chhattisgarh,Female,91,867,954,78897,86814,7917
+12/10/2024,True Value Products,Fashion ,Suit,West Bengal,Female,95,508,1054,48260,100130,51870
+13/10/2024,Apex Creative Solutions,Fashion ,Suit,West Bengal,Male,57,927,1216,52839,69312,16473
+14/10/2024,Zenith Health Products,Fashion ,Suit,Madhya Pradesh,Male,75,549,1229,41175,92175,51000
+15/10/2024,Stellar Media Group,Decor,Home décor,Jharkhand,Male,20,817,960,16340,19200,2860
+16/10/2024,Harmony Finance Co.,Decor,Home décor,West Bengal,Male,16,935,1043,14960,16688,1728
+17/10/2024,Pure Vision Ventures,Decor,Home décor,Karnataka,Male,17,642,1499,10914,25483,14569
+18/10/2024,Radiance Solutions Group,Decor,Home décor,Bihar,Female,16,584,1327,9344,21232,11888
+19/10/2024,Legacy Travel Services,Decor,Home décor,Gujarat,Female,18,596,1310,10728,23580,12852
+20/10/2024,Elite Spectrum Media,Decor,Home décor,Uttar Pradesh,Female,14,533,1277,7462,17878,10416
+21/10/2024,Modern Edge Solutions,Decor,Home décor,Uttar Pradesh,Female,19,589,929,11191,17651,6460
+22/10/2024,Pinnacle Design Studio,Decor,Home décor,Tamil Nadu,Female,19,578,1494,10982,28386,17404
+23/10/2024,Horizon Health Solutions,Electronic,Speaker,Tamil Nadu,Female,30,869,1036,26070,31080,5010
+24/10/2024,Crystal Clear Consulting,Electronic,Earbuds,Rajasthan,Female,20,999,1292,19980,25840,5860
+25/10/2024,Apex Marketing Solutions,Electronic,Earbuds,Uttar Pradesh,Male,20,979,1071,19580,21420,1840
+26/10/2024,Zenith Innovations,Electronic,Earbuds,Jharkhand,Male,29,661,1369,19169,39701,20532
+27/10/2024,Stellar Wellness Products,Fashion ,Women dress,Kerala,Male,95,845,967,80275,91865,11590
+28/10/2024,Radiant Consulting Group,Fashion ,Women dress,Maharashtra,Male,86,949,1326,81614,114036,32422
+29/10/2024,Harmony Ventures Co.,Fashion ,Women dress,Himachal Pradesh,Female,73,801,990,58473,72270,13797
+30/10/2024,Urban Path Technologies,Fashion ,Women dress,Uttarakhand,Male,70,699,950,48930,66500,17570
+31/10/2024,True Essence Innovations,Electronic,Speaker,Assam,Male,30,539,1461,16170,43830,27660
+01/11/2024,Pinnacle Media Group,Electronic,Speaker,Punjab,Male,26,726,1070,18876,27820,8944
+02/11/2024,Legacy Design Co.,Electronic,Speaker,Chhattisgarh,Male,29,510,1089,14790,31581,16791
+03/11/2024,Apex Health Products,Electronic,Speaker,West Bengal,Female,27,752,1447,20304,39069,18765
+04/11/2024,Zenith Travel Ventures,Electronic,Speaker,West Bengal,Female,28,924,1332,25872,37296,11424
+05/11/2024,Pure Path Consulting,Electronic,Speaker,Madhya Pradesh,Female,26,643,1370,16718,35620,18902
+06/11/2024,Radiance Solutions Co.,Fashion ,Male dress,Jharkhand,Female,57,541,1285,30837,73245,42408
+07/11/2024,Modern Vision Ventures,Fashion ,Male dress,West Bengal,Female,67,674,1149,45158,76983,31825
+08/11/2024,Elite Travel Services,Fashion ,Male dress,Karnataka,Female,55,599,1345,32945,73975,41030
+09/11/2024,Horizon Creative Solutions,Fashion ,Male dress,Delhi,Female,70,871,1274,60970,89180,28210
+10/11/2024,Crystal Innovations Group,Fashion ,Male dress,Maharashtra,Female,90,962,1312,86580,118080,31500
+11/11/2024,Pinnacle Fitness Studio,Fashion ,Male dress,West Bengal,Female,71,739,968,52469,68728,16259
+12/11/2024,Stellar Travel Agency,Fashion ,Male dress,Tamil Nadu,Female,63,691,988,43533,62244,18711
+13/11/2024,Harmony Educational Group,Electronic,TV,Karnataka,Male,23,584,1191,13432,27393,13961
+14/11/2024,Urban Spectrum Solutions,Electronic,TV,Telangana,Male,20,773,1009,15460,20180,4720
+15/11/2024,Radiant Design Studio,Electronic,TV,Gujarat,Male,21,608,1380,12768,28980,16212
+16/11/2024,Zenith Health Innovations,Electronic,TV,Maharashtra,Male,30,712,1102,21360,33060,11700
+17/11/2024,Apex Realty Ventures,Electronic,TV,Rajasthan,Male,24,672,910,16128,21840,5712
+18/11/2024,Legacy Wellness Solutions,Electronic,TV,Gujarat,Female,23,906,1394,20838,32062,11224
+19/11/2024,True Value Ventures,Electronic,TV,Uttar Pradesh,Female,29,520,981,15080,28449,13369
+20/11/2024,Horizon Media Solutions,Electronic,TV,Uttar Pradesh,Female,24,927,1362,22248,32688,10440
+21/11/2024,Crystal Clear Designs,Electronic,TV,Maharashtra,Male,28,884,1414,24752,39592,14840
+22/11/2024,Pinnacle Innovations Co.,Electronic,TV,Madhya Pradesh,Male,25,990,1293,24750,32325,7575
+23/11/2024,Modern Pathways,Electronic,TV,Maharashtra,Male,22,524,1420,11528,31240,19712
+24/11/2024,Stellar Finance Co.,Electronic,TV,Chandigarh,Male,26,997,1308,25922,34008,8086
+25/11/2024,Radiant Spectrum Group,Electronic,TV,Madhya Pradesh,Male,27,922,1357,24894,36639,11745
+26/11/2024,Harmony Design Ventures,Electronic,TV,Andhra Pradesh,Female,21,978,1115,20538,23415,2877
+27/11/2024,Elite Edge Products,Electronic,TV,Bihar,Female,24,830,964,19920,23136,3216
+28/11/2024,Zenith Consulting Co.,Electronic,Laptop,Gujarat,Female,21,751,1002,15771,21042,5271
+29/11/2024,Apex Wellness Products,Electronic,Laptop,Uttar Pradesh,Female,26,520,1174,13520,30524,17004
+30/11/2024,Urban Vision Solutions,Electronic,Laptop,Uttar Pradesh,Female,28,866,1293,24248,36204,11956
+01/12/2024,Pure Harmony Innovations,Electronic,Laptop,Tamil Nadu,Female,21,605,1005,12705,21105,8400
+02/12/2024,Legacy Media Group,Electronic,Laptop,Tamil Nadu,Female,20,666,1346,13320,26920,13600
+03/12/2024,Pinnacle Travel Solutions,Electronic,Laptop,Rajasthan,Male,29,639,1449,18531,42021,23490
+04/12/2024,Horizon Tech Innovations,Electronic,Laptop,Uttar Pradesh,Male,23,632,1062,14536,24426,9890
+05/12/2024,Crystal Spectrum Consulting,Electronic,Laptop,Jharkhand,Male,21,540,1169,11340,24549,13209
+06/12/2024,Stellar Creative Co.,Electronic,Laptop,Kerala,Male,30,557,1005,16710,30150,13440
+07/12/2024,Radiance Media Ventures,Electronic,Laptop,Maharashtra,Female,24,651,1091,15624,26184,10560
+08/12/2024,Harmony Health Solutions,Electronic,Laptop,Himachal Pradesh,Male,23,771,946,17733,21758,4025
+09/12/2024,Zenith Edge Services,Electronic,Laptop,Uttarakhand,Male,20,565,1218,11300,24360,13060
+10/12/2024,Apex Travel Ventures,Fashion ,Saree,Assam,Male,99,705,1284,69795,127116,57321
+11/12/2024,Modern Vision Solutions,Fashion ,Saree,Punjab,Male,66,888,1242,58608,81972,23364
+12/12/2024,True Path Consulting,Fashion ,Saree,Chhattisgarh,Female,74,922,1093,68228,80882,12654
+13/12/2024,Legacy Finance Group,Fashion ,Saree,West Bengal,Female,72,560,911,40320,65592,25272
+14/12/2024,Pinnacle Design Ventures,Fashion ,Saree,Gujarat,Female,59,834,949,49206,55991,6785
+15/12/2024,Stellar Innovations Co.,Fashion ,Saree,Uttar Pradesh,Female,83,840,997,69720,82751,13031
+16/12/2024,Radiant Educational Solutions,Fashion ,Saree,Uttar Pradesh,Female,56,516,1162,28896,65072,36176
+17/12/2024,Harmony Marketing Co.,Fashion ,Saree,Tamil Nadu,Female,64,965,982,61760,62848,1088
+18/12/2024,Urban Tech Innovations,Fashion ,Saree,Tamil Nadu,Female,59,671,931,39589,54929,15340
+19/12/2024,Crystal Wellness Group,Fashion ,Saree,Rajasthan,Female,85,761,901,64685,76585,11900
+20/12/2024,Zenith Creative Solutions,Fashion ,Saree,Uttar Pradesh,Female,60,901,1310,54060,78600,24540
+21/12/2024,Apex Media Co.,Fashion ,Saree,Jharkhand,Female,81,522,929,42282,75249,32967
+22/12/2024,Pure Vision Solutions,Fashion ,Suit,Kerala,Female,50,749,1021,37450,51050,13600
+23/12/2024,Legacy Health Ventures,Fashion ,Suit,Maharashtra,Female,72,943,1230,67896,88560,20664
+24/12/2024,Pinnacle Spectrum Co.,Fashion ,Suit,Himachal Pradesh,Female,67,801,938,53667,62846,9179
+25/12/2024,Stellar Travel Products,Fashion ,Suit,Uttarakhand,Female,57,647,1346,36879,76722,39843
+26/12/2024,Radiance Finance Services,Fashion ,Suit,Assam,Female,91,906,1269,82446,115479,33033
+27/12/2024,Harmony Edge Solutions,Fashion ,Suit,Punjab,Male,59,774,1469,45666,86671,41005
+28/12/2024,Modern Travel Agency,Fashion ,Suit,Chhattisgarh,Male,82,955,1337,78310,109634,31324
+29/12/2024,Crystal Path Consulting,Fashion ,Suit,West Bengal,Male,72,829,1266,59688,91152,31464
+30/12/2024,Zenith Educational Services,Fashion ,Suit,West Bengal,Male,62,680,1047,42160,64914,22754
+31/12/2024,Apex Innovations Co.,Fashion ,Suit,Madhya Pradesh,Male,67,600,1110,40200,74370,34170
+01/01/2025,Pure Harmony Health,Fashion ,Suit,Jharkhand,Female,97,946,1187,91762,115139,23377
+02/01/2025,Legacy Travel Ventures,Decor,Car accessories,West Bengal,Female,14,521,1399,7294,19586,12292
+03/01/2025,Pinnacle Media Solutions,Decor,Car accessories,Karnataka,Female,11,562,1164,6182,12804,6622
+04/01/2025,Stellar Design Group,Decor,Car accessories,Delhi,Female,14,734,1398,10276,19572,9296
+05/01/2025,Radiant Tech Solutions,Decor,Car accessories,Maharashtra,Female,15,992,1009,14880,15135,255
+06/01/2025,Horizon Ventures Co.,Decor,Car accessories,Punjab,Female,20,837,921,16740,18420,1680
+07/01/2025,Elite Creative Solutions,Decor,Car accessories,Chhattisgarh,Female,11,668,1206,7348,13266,5918
+08/01/2025,Zenith Wellness Services,Decor,Car accessories,West Bengal,Male,11,617,1122,6787,12342,5555
+09/01/2025,Apex Travel Innovations,Fashion ,Saree,Gujarat,Male,62,800,1018,49600,63116,13516
+10/01/2025,Modern Health Products,Fashion ,Saree,Uttar Pradesh,Male,65,875,1202,56875,78130,21255
+11/01/2025,Harmony Finance Group,Fashion ,Saree,Uttar Pradesh,Male,88,823,1207,72424,106216,33792
+12/01/2025,Pure Vision Consulting,Fashion ,Saree,Tamil Nadu,Female,54,664,1283,35856,69282,33426
+13/01/2025,Legacy Spectrum Co.,Fashion ,Saree,Tamil Nadu,Male,52,538,1277,27976,66404,38428
+14/01/2025,Pinnacle Design Solutions,Fashion ,Suit,Rajasthan,Male,56,685,1163,38360,65128,26768
+15/01/2025,Stellar Media Services,Fashion ,Suit,Uttar Pradesh,Male,81,556,932,45036,75492,30456
+16/01/2025,Radiant Innovations Group,Fashion ,Suit,Jharkhand,Male,72,608,944,43776,67968,24192
+17/01/2025,Horizon Path Ventures,Fashion ,Suit,Kerala,Female,61,994,1476,60634,90036,29402
+18/01/2025,Zenith Tech Co.,Fashion ,Suit,Maharashtra,Female,57,566,1490,32262,84930,52668
+19/01/2025,Apex Finance Ventures,Fashion ,Suit,Himachal Pradesh,Female,50,714,1386,35700,69300,33600
+20/01/2025,Pure Harmony Solutions,Decor,Home décor,Uttarakhand,Female,20,803,1060,16060,21200,5140
+21/01/2025,Legacy Travel Co.,Decor,Home décor,Assam,Female,20,749,1499,14980,29980,15000
+22/01/2025,Pinnacle Innovations Group,Decor,Home décor,Punjab,Female,15,924,1216,13860,18240,4380
+23/01/2025,Stellar Health Services,Decor,Home décor,Chhattisgarh,Female,18,601,1325,10818,23850,13032
+24/01/2025,Radiance Design Co.,Decor,Home décor,West Bengal,Female,17,626,1487,10642,25279,14637
+25/01/2025,Harmony Consulting Group,Decor,Home décor,West Bengal,Female,13,542,1110,7046,14430,7384
+26/01/2025,Zenith Path Solutions,Decor,Home décor,Madhya Pradesh,Female,19,911,1052,17309,19988,2679
+27/01/2025,Apex Educational Group,Decor,Home décor,Jharkhand,Male,19,595,892,11305,16948,5643
+28/01/2025,Modern Wellness Co.,Decor,Home décor,West Bengal,Male,17,593,1359,10081,23103,13022
+29/01/2025,Pure Spectrum Innovations,Decor,Home décor,Uttar Pradesh,Male,20,735,1265,14700,25300,10600
+30/01/2025,Legacy Media Solutions,Decor,Home décor,Jharkhand,Male,10,911,1214,9110,12140,3030
+31/01/2025,Pinnacle Travel Co.,Decor,Home décor,Kerala,Male,17,750,885,12750,15045,2295
+01/02/2025,Stellar Consulting Services,Electronic,Laptop,Maharashtra,Female,22,810,1261,17820,27742,9922
+02/02/2025,Radiant Ventures,Electronic,Laptop,Himachal Pradesh,Female,23,827,968,19021,22264,3243
+03/02/2025,Harmony Tech Co.,Electronic,Laptop,Uttarakhand,Female,23,570,1174,13110,27002,13892
+04/02/2025,Zenith Creative Ventures,Electronic,Laptop,Assam,Male,21,938,1008,19698,21168,1470
+05/02/2025,Apex Health Services,Electronic,Laptop,Punjab,Male,24,993,1319,23832,31656,7824
+06/02/2025,Pure Vision Media,Electronic,Laptop,Chhattisgarh,Male,20,534,1436,10680,28720,18040
+07/02/2025,Legacy Innovations Group,Electronic,Laptop,West Bengal,Male,23,761,1027,17503,23621,6118
+08/02/2025,Pinnacle Consulting Co.,Electronic,Laptop,West Bengal,Male,23,701,1006,16123,23138,7015
+09/02/2025,Stellar Finance Group,Electronic,Laptop,Madhya Pradesh,Female,25,541,1277,13525,31925,18400
+10/02/2025,Radiant Solutions Co.,Electronic,Laptop,Jharkhand,Female,26,751,1271,19526,33046,13520
+11/02/2025,Harmony Ventures Group,Electronic,Laptop,Gujarat,Female,28,708,1037,19824,29036,9212
+12/02/2025,Zenith Wellness Co.,Fashion ,Saree,Uttar Pradesh,Female,80,636,1120,50880,89600,38720
+13/02/2025,Apex Design Services,Fashion ,Saree,Uttar Pradesh,Female,50,581,1107,29050,55350,26300
+14/02/2025,Modern Travel Solutions,Fashion ,Saree,Tamil Nadu,Female,55,856,1202,47080,66110,19030
+15/02/2025,Pure Health Ventures,Fashion ,Saree,Tamil Nadu,Female,78,964,1202,75192,93756,18564
+16/02/2025,Legacy Spectrum Group,Fashion ,Saree,Rajasthan,Male,97,982,1080,95254,104760,9506
+17/02/2025,Pinnacle Media Ventures,Fashion ,Saree,Uttar Pradesh,Male,93,736,1300,68448,120900,52452
+18/02/2025,Stellar Innovations Group,Fashion ,Saree,Jharkhand,Male,51,608,1035,31008,52785,21777
+19/02/2025,Radiant Educational Co.,Fashion ,Saree,Kerala,Male,95,642,991,60990,94145,33155
+20/02/2025,Harmony Edge Ventures,Fashion ,Saree,Maharashtra,Female,90,713,1017,64170,91530,27360
+21/02/2025,Zenith Tech Solutions,Fashion ,Saree,Himachal Pradesh,Male,88,635,1275,55880,112200,56320
+22/02/2025,Apex Finance Group,Fashion ,Saree,Uttarakhand,Male,81,813,946,65853,76626,10773
+23/02/2025,Pure Harmony Media,Fashion ,Saree,Assam,Male,57,912,1076,51984,61332,9348
+24/02/2025,Legacy Health Co.,Fashion ,Suit,Punjab,Male,61,565,1330,34465,81130,46665
+25/02/2025,ACCOUNTS EXPERT,Fashion ,CHAIR,Punjab,Male,62,805,1411,49910,87482,37572
+01/04/2024,Bharat Innovations,Electronic,Speaker,Delhi,Male,28,826,1135,23128,31780,8652
+02/04/2024,Green Leaf Enterprises,Electronic,Earbuds,Maharashtra,Male,25,952,1314,23800,32850,9050
+03/04/2024,Urban Pulse Technologies,Electronic,Earbuds,West Bengal,Male,20,940,1488,18800,29760,10960
+04/04/2024,Mystic India Exports,Electronic,Earbuds,Tamil Nadu,Male,22,785,885,17270,19470,2200
+05/04/2024,Golden Horizon Ventures,Fashion ,Women dress,Karnataka,Male,74,743,1284,54982,95016,40034
+06/04/2024,Eternal Traditions,Fashion ,Women dress,Telangana,Male,83,594,1302,49302,108066,58764
+07/04/2024,Apex Solutions,Fashion ,Women dress,Gujarat,Male,55,906,1316,49830,72380,22550
+08/04/2024,Harmony Foods,Fashion ,Women dress,Maharashtra,Male,70,878,1198,61460,83860,22400
+09/04/2024,Pure Essence Skincare,Electronic,Speaker,Rajasthan,Female,21,879,1072,18459,22512,4053
+10/04/2024,Zenith Construction Co.,Electronic,Speaker,Gujarat,Female,28,937,962,26236,26936,700
+11/04/2024,Radiant Health Systems,Electronic,Speaker,Uttar Pradesh,Female,22,832,1160,18304,25520,7216
+12/04/2024,Divine Creations,Electronic,Speaker,Uttar Pradesh,Female,28,832,1013,23296,28364,5068
+13/04/2024,Metro Tech Solutions,Electronic,Speaker,Maharashtra,Female,22,692,1407,15224,30954,15730
+14/04/2024,True Path Logistics,Electronic,Speaker,Madhya Pradesh,Female,22,622,1031,13684,22682,8998
+15/04/2024,Sacred Roots Apparel,Fashion ,Male dress,Maharashtra,Female,57,724,1094,41268,62358,21090
+16/04/2024,Quantum Finance Services,Fashion ,Male dress,Chandigarh,Female,50,537,999,26850,49950,23100
+17/04/2024,Brilliant Minds Academy,Fashion ,Male dress,Madhya Pradesh,Female,67,989,1052,66263,70484,4221
+18/04/2024,Visionary Holdings,Fashion ,Male dress,Andhra Pradesh,Female,83,917,1125,76111,93375,17264
+19/04/2024,Stellar Design Studio,Fashion ,Male dress,Bihar,Female,74,645,1026,47730,75924,28194
+20/04/2024,Classic Cuisines,Fashion ,Male dress,Gujarat,Male,76,943,1205,71668,91580,19912
+21/04/2024,Bold Ventures,Fashion ,Male dress,Uttar Pradesh,Male,85,505,1323,42925,112455,69530
+22/04/2024,Prestige Automobiles,Electronic,TV,Uttar Pradesh,Male,23,663,926,15249,21298,6049
+23/04/2024,Elite Marketing Solutions,Electronic,TV,Tamil Nadu,Male,29,893,1003,25897,29087,3190
+24/04/2024,Natural Bliss Beverages,Electronic,TV,Tamil Nadu,Male,23,779,1428,17917,32844,14927
+25/04/2024,Crystal Clear Solutions,Electronic,TV,Rajasthan,Female,24,859,939,20616,22536,1920
+26/04/2024,Modern Trends Fashion,Electronic,TV,Uttar Pradesh,Female,29,952,1483,27608,43007,15399
+27/04/2024,Heritage Crafts,Electronic,TV,Jharkhand,Female,26,983,1457,25558,37882,12324
+28/04/2024,Future Insights Analytics,Electronic,TV,Kerala,Female,28,814,1044,22792,29232,6440
+29/04/2024,Emerald Estate Developers,Electronic,TV,Maharashtra,Female,26,835,1145,21710,29770,8060
+30/04/2024,Starlight Media Group,Electronic,TV,Himachal Pradesh,Female,24,631,1299,15144,31176,16032
+01/05/2024,Supreme Electronics,Electronic,TV,Uttarakhand,Female,24,833,974,19992,23376,3384
+02/05/2024,Optimum Wellness,Electronic,TV,Assam,Male,21,680,1232,14280,25872,11592
+03/05/2024,Zenith Books Publishing,Electronic,TV,Punjab,Male,23,667,1242,15341,28566,13225
+04/05/2024,Pinnacle Innovations,Electronic,TV,Chhattisgarh,Male,24,504,1107,12096,26568,14472
+05/05/2024,Apex Travel Services,Electronic,TV,West Bengal,Male,26,985,1158,25610,30108,4498
+06/05/2024,Golden Era Realty,Electronic,TV,West Bengal,Female,27,890,1033,24030,27891,3861
+07/05/2024,Radiant Jewelry,Electronic,Laptop,Madhya Pradesh,Female,21,722,1486,15162,31206,16044
+08/05/2024,Infinity Ventures,Electronic,Laptop,Jharkhand,Female,22,725,1362,15950,29964,14014
+09/05/2024,Royal Taste Foods,Electronic,Laptop,West Bengal,Female,26,509,1413,13234,36738,23504
+10/05/2024,Harmony Homes,Electronic,Laptop,Karnataka,Female,28,905,1110,25340,31080,5740
+11/05/2024,Urban Edge Consulting,Electronic,Laptop,Delhi,Female,22,866,1020,19052,22440,3388
+12/05/2024,Prime Tech Innovations,Electronic,Laptop,Maharashtra,Female,23,816,1429,18768,32867,14099
+13/05/2024,Legacy Designs,Electronic,Laptop,West Bengal,Female,30,738,1400,22140,42000,19860
+14/05/2024,Virtue Enterprises,Electronic,Laptop,Tamil Nadu,Female,24,653,962,15672,23088,7416
+15/05/2024,Radiant Health Club,Electronic,Laptop,Karnataka,Female,30,583,1093,17490,32790,15300
+16/05/2024,Bright Horizon Ventures,Electronic,Laptop,Telangana,Male,26,1000,1236,26000,32136,6136
+17/05/2024,Modern Lifestyle Products,Electronic,Laptop,Gujarat,Male,27,913,1041,24651,28107,3456
+18/05/2024,Nexus Trading Co.,Electronic,Laptop,Maharashtra,Male,29,735,1098,21315,31842,10527
+19/05/2024,Radiance Spa,Fashion ,Saree,Rajasthan,Male,82,928,1106,76096,90692,14596
+20/05/2024,Absolute Solutions,Fashion ,Saree,Gujarat,Male,63,929,1054,58527,66402,7875
+21/05/2024,Verve Fitness Studio,Fashion ,Saree,Uttar Pradesh,Female,72,605,1174,43560,84528,40968
+22/05/2024,Sparkle Cleaners,Fashion ,Saree,Uttar Pradesh,Female,82,993,1475,81426,120950,39524
+23/05/2024,Global Reach Logistics,Fashion ,Saree,Maharashtra,Female,53,803,1141,42559,60473,17914
+24/05/2024,Noble Path Finance,Fashion ,Saree,Madhya Pradesh,Female,87,742,1221,64554,106227,41673
+25/05/2024,Dynamic Events Management,Fashion ,Saree,Maharashtra,Female,70,605,1228,42350,85960,43610
+26/05/2024,Crystal Waters Resort,Fashion ,Saree,Chandigarh,Female,94,754,1347,70876,126618,55742
+27/05/2024,Excellence Tutors,Fashion ,Saree,Madhya Pradesh,Female,80,622,1239,49760,99120,49360
+28/05/2024,Horizon Builders,Fashion ,Saree,Andhra Pradesh,Male,88,625,1027,55000,90376,35376
+29/05/2024,Synergy Tech Solutions,Fashion ,Saree,Bihar,Male,67,796,1414,53332,94738,41406
+30/05/2024,Classic Heritage Crafts,Fashion ,Saree,Gujarat,Male,67,760,1290,50920,86430,35510
+31/05/2024,Prime Focus Media,Fashion ,Suit,Uttar Pradesh,Male,75,966,1098,72450,82350,9900
+01/06/2024,Noble Nutraceuticals,Fashion ,Suit,Uttar Pradesh,Female,51,749,1290,38199,65790,27591
+02/06/2024,Supreme Travel Agency,Fashion ,Suit,Tamil Nadu,Male,94,721,1066,67774,100204,32430
+03/06/2024,Future Vision Tech,Fashion ,Suit,Tamil Nadu,Male,71,869,902,61699,64042,2343
+04/06/2024,Urban Groove Apparel,Fashion ,Suit,Rajasthan,Male,52,550,1057,28600,54964,26364
+05/06/2024,Echo Real Estate,Fashion ,Suit,Uttar Pradesh,Male,77,513,962,39501,74074,34573
+06/06/2024,Pinnacle Health Products,Fashion ,Suit,Jharkhand,Female,84,739,1077,62076,90468,28392
+07/06/2024,Apex Auto Care,Fashion ,Suit,Kerala,Female,71,923,1199,65533,85129,19596
+08/06/2024,Royal Glow Cosmetics,Fashion ,Suit,Maharashtra,Female,59,862,1030,50858,60770,9912
+09/06/2024,Zenith Culinary Arts,Fashion ,Suit,Himachal Pradesh,Female,77,882,1346,67914,103642,35728
+10/06/2024,Visionary Tours,Fashion ,Suit,Uttarakhand,Female,90,862,920,77580,82800,5220
+11/06/2024,Horizon Wellness,Decor,Car accessories,Assam,Female,11,601,986,6611,10846,4235
+12/06/2024,True Value Electronics,Decor,Car accessories,Punjab,Female,20,857,911,17140,18220,1080
+13/06/2024,Harmony Homes Realty,Decor,Car accessories,Chhattisgarh,Female,11,774,1193,8514,13123,4609
+14/06/2024,Stellar Advertising,Decor,Car accessories,West Bengal,Female,13,986,1318,12818,17134,4316
+15/06/2024,Radiant Enterprise Solutions,Decor,Car accessories,West Bengal,Female,14,603,1313,8442,18382,9940
+16/06/2024,Modern Trends Retail,Decor,Car accessories,Madhya Pradesh,Male,12,997,1282,11964,15384,3420
+17/06/2024,Global Spectrum Consulting,Decor,Car accessories,Jharkhand,Male,20,941,1038,18820,20760,1940
+18/06/2024,Elite Essence Products,Fashion ,Saree,West Bengal,Male,73,541,1126,39493,82198,42705
+19/06/2024,Dynamic Creations,Fashion ,Saree,Karnataka,Male,94,772,1078,72568,101332,28764
+20/06/2024,Quantum Design Studio,Fashion ,Saree,Delhi,Male,66,771,1200,50886,79200,28314
+21/06/2024,Infinite Solutions,Fashion ,Saree,Maharashtra,Female,77,923,1363,71071,104951,33880
+22/06/2024,Apex Construction,Fashion ,Saree,West Bengal,Female,65,762,1365,49530,88725,39195
+23/06/2024,Legacy Innovations,Fashion ,Suit,Tamil Nadu,Female,78,918,1277,71604,99606,28002
+24/06/2024,Pure Harmony Foods,Fashion ,Suit,Karnataka,Male,76,624,1300,47424,98800,51376
+25/06/2024,Zenith Security Systems,Fashion ,Suit,Telangana,Male,99,598,1134,59202,112266,53064
+26/06/2024,Crystal Clear Beverages,Fashion ,Suit,Gujarat,Male,78,761,1351,59358,105378,46020
+27/06/2024,Metro Line Tech,Fashion ,Suit,Maharashtra,Male,96,512,1418,49152,136128,86976
+28/06/2024,Urban Pulse Consulting,Fashion ,Suit,Rajasthan,Male,85,765,1320,65025,112200,47175
+29/06/2024,Radiant Vision Studios,Decor,Home décor,Gujarat,Female,19,952,946,18088,17974,-114
+30/06/2024,Noble Travel Services,Decor,Home décor,Uttar Pradesh,Female,11,503,1337,5533,14707,9174
+01/07/2024,Bright Future Academy,Decor,Home décor,Uttar Pradesh,Female,10,719,1050,7190,10500,3310
+02/07/2024,Synergy Solutions Group,Decor,Home décor,Maharashtra,Female,19,860,1430,16340,27170,10830
+03/07/2024,Visionary Health Systems,Decor,Home décor,Madhya Pradesh,Female,15,941,1098,14115,16470,2355
+04/07/2024,Apex Retailers,Decor,Home décor,Maharashtra,Female,15,937,1356,14055,20340,6285
+05/07/2024,Prestige Property Developers,Decor,Home décor,Chandigarh,Female,11,674,1005,7414,11055,3641
+06/07/2024,Classic Trends Fashion,Decor,Home décor,Madhya Pradesh,Male,20,596,1317,11920,26340,14420
+07/07/2024,Harmony Ventures,Decor,Home décor,Andhra Pradesh,Male,20,689,1240,13780,24800,11020
+08/07/2024,Stellar Realty,Decor,Home décor,Bihar,Male,17,990,1141,16830,19397,2567
+09/07/2024,Future Path Technologies,Decor,Home décor,Gujarat,Male,20,589,1329,11780,26580,14800
+10/07/2024,Elite Edge Services,Decor,Home décor,Uttar Pradesh,Female,17,773,1470,13141,24990,11849
+11/07/2024,Radiance Health and Wellness,Electronic,Laptop,Uttar Pradesh,Male,29,965,1015,27985,29435,1450
+12/07/2024,Legacy Auto Works,Electronic,Laptop,Tamil Nadu,Male,24,970,1470,23280,35280,12000
+13/07/2024,Prime Essence Creations,Electronic,Laptop,Tamil Nadu,Male,22,974,1398,21428,30756,9328
+14/07/2024,Quantum Ventures,Electronic,Laptop,Rajasthan,Male,21,915,961,19215,20181,966
+15/07/2024,Horizon Tech Solutions,Electronic,Laptop,Uttar Pradesh,Female,29,929,1066,26941,30914,3973
+16/07/2024,Urban Legends Apparel,Electronic,Laptop,Jharkhand,Female,27,605,1361,16335,36747,20412
+17/07/2024,Pure Bliss Beverages,Electronic,Laptop,Kerala,Female,29,689,1158,19981,33582,13601
+18/07/2024,Noble Heights Builders,Electronic,Laptop,Maharashtra,Female,25,861,1436,21525,35900,14375
+19/07/2024,Radiant Foods,Electronic,Laptop,Himachal Pradesh,Female,22,629,1085,13838,23870,10032
+20/07/2024,Zenith Financial Services,Electronic,Laptop,Uttarakhand,Female,22,779,1072,17138,23584,6446
+21/07/2024,Apex Travel Ventures,Electronic,Laptop,Assam,Female,23,730,1337,16790,30751,13961
+22/07/2024,Legacy Design Group,Fashion ,Saree,Punjab,Female,59,663,992,39117,58528,19411
+23/07/2024,Supreme Wellness,Fashion ,Saree,Chhattisgarh,Female,75,871,990,65325,74250,8925
+24/07/2024,Harmony Tech Innovations,Fashion ,Saree,West Bengal,Female,87,869,1207,75603,105009,29406
+25/07/2024,Stellar Education Services,Fashion ,Saree,West Bengal,Female,100,605,1313,60500,131300,70800
+26/07/2024,Visionary Health Products,Fashion ,Saree,Madhya Pradesh,Female,51,798,1421,40698,72471,31773
+27/07/2024,Crystal Innovations,Fashion ,Saree,Jharkhand,Female,52,984,1429,51168,74308,23140
+28/07/2024,Future Trends Retail,Fashion ,Saree,West Bengal,Female,97,565,1239,54805,120183,65378
+29/07/2024,Radiant Horizon Ventures,Fashion ,Saree,Karnataka,Female,58,799,1182,46342,68556,22214
+30/07/2024,Urban Edge Realty,Fashion ,Saree,Delhi,Male,69,524,1198,36156,82662,46506
+31/07/2024,Prime Focus Innovations,Fashion ,Saree,Maharashtra,Male,81,903,1471,73143,119151,46008
+01/08/2024,Elite Spectrum Consulting,Fashion ,Saree,West Bengal,Male,89,584,1367,51976,121663,69687
+02/08/2024,Dynamic Design Studio,Fashion ,Saree,Tamil Nadu,Male,75,906,1377,67950,103275,35325
+03/08/2024,Apex Wellness Solutions,Fashion ,Suit,Karnataka,Male,60,642,1346,38520,80760,42240
+04/08/2024,Royal Crest Foods,Fashion ,Suit,Telangana,Female,98,925,1230,90650,120540,29890
+05/08/2024,Zenith Travels,Fashion ,Suit,Gujarat,Female,73,508,982,37084,71686,34602
+06/08/2024,Modern Harmony Products,Decor,Home décor,Maharashtra,Female,11,830,1377,9130,15147,6017
+07/08/2024,Horizon Builders & Developers,Decor,Home décor,Rajasthan,Female,11,930,1185,10230,13035,2805
+08/08/2024,Radiance Tech Solutions,Decor,Home décor,Gujarat,Female,20,525,1143,10500,22860,12360
+09/08/2024,Legacy Apparel,Decor,Home décor,Uttar Pradesh,Female,19,654,997,12426,18943,6517
+10/08/2024,Pinnacle Education Group,Decor,Home décor,Uttar Pradesh,Female,18,767,962,13806,17316,3510
+11/08/2024,Noble Innovations,Decor,Home décor,Maharashtra,Male,12,654,1398,7848,16776,8928
+12/08/2024,Crystal Clear Realty,Decor,Home décor,Madhya Pradesh,Male,11,827,991,9097,10901,1804
+13/08/2024,Future Vision Realty,Electronic,Laptop,Maharashtra,Male,26,847,936,22022,24336,2314
+14/08/2024,Urban Pulse Media,Electronic,Laptop,Chandigarh,Male,24,942,1492,22608,35808,13200
+15/08/2024,True Essence Health,Electronic,Laptop,Madhya Pradesh,Female,20,751,1420,15020,28400,13380
+16/08/2024,Apex Enterprise Solutions,Electronic,Laptop,Andhra Pradesh,Male,23,884,1183,20332,27209,6877
+17/08/2024,Radiant Vision Realty,Electronic,Laptop,Bihar,Male,28,855,994,23940,27832,3892
+18/08/2024,Harmony Consulting Group,Electronic,Laptop,Gujarat,Male,22,806,907,17732,19954,2222
+19/08/2024,Zenith Tech Ventures,Electronic,Laptop,Uttar Pradesh,Male,30,624,1243,18720,37290,18570
+20/08/2024,Stellar Health Services,Electronic,Laptop,Uttar Pradesh,Female,25,533,1248,13325,31200,17875
+21/08/2024,Pure Path Foods,Electronic,Laptop,Tamil Nadu,Female,20,681,1461,13620,29220,15600
+22/08/2024,Prestige Solutions,Electronic,Laptop,Tamil Nadu,Female,20,997,1093,19940,21860,1920
+23/08/2024,Bright Horizon Realty,Electronic,Laptop,Rajasthan,Female,23,577,1377,13271,31671,18400
+24/08/2024,Quantum Media Group,Fashion ,Saree,Uttar Pradesh,Female,87,876,1293,76212,112491,36279
+25/08/2024,Legacy Builders,Fashion ,Saree,Jharkhand,Female,69,993,971,68517,66999,-1518
+26/08/2024,Apex Spa & Wellness,Fashion ,Saree,Kerala,Female,62,781,1270,48422,78740,30318
+27/08/2024,Radiant Travel Services,Fashion ,Saree,Maharashtra,Female,63,718,987,45234,62181,16947
+28/08/2024,Modern Trends Consulting,Fashion ,Saree,Himachal Pradesh,Female,72,673,1459,48456,105048,56592
+29/08/2024,Global Horizon Ventures,Fashion ,Saree,Uttarakhand,Female,76,567,1425,43092,108300,65208
+30/08/2024,Elite Enterprises,Fashion ,Saree,Assam,Male,70,751,908,52570,63560,10990
+31/08/2024,Urban Wave Solutions,Fashion ,Saree,Punjab,Male,64,580,958,37120,61312,24192
+01/09/2024,Pinnacle Health Innovations,Fashion ,Saree,Chhattisgarh,Male,56,559,1412,31304,79072,47768
+02/09/2024,Horizon Fashion,Fashion ,Suit,West Bengal,Male,72,719,1249,51768,89928,38160
+03/09/2024,Crystal Essence Beverages,Fashion ,Suit,West Bengal,Male,89,703,914,62567,81346,18779
+04/09/2024,Dynamic Pathways,Fashion ,Suit,Madhya Pradesh,Female,77,780,1346,60060,103642,43582
+05/09/2024,Visionary Realty Solutions,Fashion ,Suit,Jharkhand,Female,52,893,1391,46436,72332,25896
+06/09/2024,Radiance Apparel,Fashion ,Suit,West Bengal,Female,54,762,1076,41148,58104,16956
+07/09/2024,Zenith Design Group,Fashion ,Suit,Karnataka,Male,91,647,983,58877,89453,30576
+08/09/2024,Apex Publishing House,Decor,Home décor,Delhi,Male,12,561,905,6732,10860,4128
+09/09/2024,True Value Consulting,Decor,Home décor,Maharashtra,Male,12,879,1042,10548,12504,1956
+10/09/2024,Future Path Ventures,Decor,Home décor,West Bengal,Male,13,523,1076,6799,13988,7189
+11/09/2024,Stellar Tech Services,Decor,Home décor,Tamil Nadu,Male,10,990,1296,9900,12960,3060
+12/09/2024,Legacy Travel Agency,Decor,Home décor,Karnataka,Female,12,707,915,8484,10980,2496
+13/09/2024,Harmony Innovations,Decor,Home décor,Telangana,Female,13,515,1191,6695,15483,8788
+14/09/2024,Pure Essence Solutions,Decor,Home décor,Gujarat,Female,19,938,1119,17822,21261,3439
+15/09/2024,Elite Media Group,Decor,Home décor,Maharashtra,Female,12,671,1402,8052,16824,8772
+16/09/2024,Radiant Construction,Decor,Home décor,Rajasthan,Female,12,500,1328,6000,15936,9936
+17/09/2024,Pinnacle Finance,Decor,Home décor,Gujarat,Female,18,602,986,10836,17748,6912
+18/09/2024,Horizon Tech Ventures,Decor,Home décor,Uttar Pradesh,Female,18,629,1081,11322,19458,8136
+19/09/2024,Crystal Health Solutions,Decor,Home décor,Uttar Pradesh,Male,17,614,913,10438,15521,5083
+20/09/2024,Modern Horizons Consulting,Fashion ,Suit,Maharashtra,Male,63,720,1191,45360,75033,29673
+21/09/2024,Apex Realty Services,Fashion ,Suit,Madhya Pradesh,Male,66,958,985,63228,65010,1782
+22/09/2024,Zenith Educational Group,Fashion ,Suit,Maharashtra,Male,54,663,1422,35802,76788,40986
+23/09/2024,True Path Ventures,Fashion ,Suit,Chandigarh,Female,73,540,1424,39420,103952,64532
+24/09/2024,Radiance Media,Fashion ,Suit,Madhya Pradesh,Male,76,744,1255,56544,95380,38836
+25/09/2024,Legacy Health Systems,Fashion ,Suit,Andhra Pradesh,Male,94,874,970,82156,91180,9024
+26/09/2024,Urban Focus Products,Fashion ,Suit,Bihar,Male,97,752,1058,72944,102626,29682
+27/09/2024,Elite Edge Consulting,Decor,Car accessories,Gujarat,Male,17,565,1105,9605,18785,9180
+28/09/2024,Stellar Travel Solutions,Decor,Car accessories,Uttar Pradesh,Female,10,572,1364,5720,13640,7920
+29/09/2024,Harmony Tech Ventures,Decor,Car accessories,Uttar Pradesh,Female,10,917,1031,9170,10310,1140
+30/09/2024,Pure Harmony Solutions,Decor,Car accessories,Tamil Nadu,Female,12,674,1176,8088,14112,6024
+01/10/2024,Radiant Fitness Studio,Decor,Car accessories,Tamil Nadu,Female,18,867,1384,15606,24912,9306
+02/10/2024,Zenith Finance Co.,Decor,Car accessories,Rajasthan,Female,10,757,968,7570,9680,2110
+03/10/2024,Apex Events Management,Decor,Car accessories,Uttar Pradesh,Female,18,668,1427,12024,25686,13662
+04/10/2024,Visionary Innovations,Fashion ,Saree,Jharkhand,Female,77,951,1460,73227,112420,39193
+05/10/2024,Horizon Design Studio,Fashion ,Saree,Kerala,Female,52,633,1467,32916,76284,43368
+06/10/2024,Modern Spectrum Solutions,Fashion ,Saree,Maharashtra,Female,52,546,1485,28392,77220,48828
+07/10/2024,Legacy Tech Products,Fashion ,Saree,Himachal Pradesh,Female,80,982,1124,78560,89920,11360
+08/10/2024,Pinnacle Wellness Services,Fashion ,Saree,Uttarakhand,Female,81,917,1128,74277,91368,17091
+09/10/2024,Urban Insight Consulting,Fashion ,Suit,Assam,Female,63,747,1329,47061,83727,36666
+10/10/2024,Crystal Horizons,Fashion ,Suit,Punjab,Female,88,978,1292,86064,113696,27632
+11/10/2024,Radiant Apparel,Fashion ,Suit,Chhattisgarh,Female,82,652,1305,53464,107010,53546
+12/10/2024,True Value Products,Fashion ,Suit,West Bengal,Female,80,841,1094,67280,87520,20240
+13/10/2024,Apex Creative Solutions,Fashion ,Suit,West Bengal,Male,86,717,1056,61662,90816,29154
+14/10/2024,Zenith Health Products,Fashion ,Suit,Madhya Pradesh,Male,70,798,1258,55860,88060,32200
+15/10/2024,Stellar Media Group,Decor,Home décor,Jharkhand,Male,20,882,996,17640,19920,2280
+16/10/2024,Harmony Finance Co.,Decor,Home décor,West Bengal,Male,17,739,1028,12563,17476,4913
+17/10/2024,Pure Vision Ventures,Decor,Home décor,Karnataka,Male,15,563,1415,8445,21225,12780
+18/10/2024,Radiance Solutions Group,Decor,Home décor,Bihar,Female,20,784,1481,15680,29620,13940
+19/10/2024,Legacy Travel Services,Decor,Home décor,Gujarat,Female,15,662,1190,9930,17850,7920
+20/10/2024,Elite Spectrum Media,Decor,Home décor,Uttar Pradesh,Female,16,846,1314,13536,21024,7488
+21/10/2024,Modern Edge Solutions,Decor,Home décor,Uttar Pradesh,Female,19,664,1285,12616,24415,11799
+22/10/2024,Pinnacle Design Studio,Decor,Home décor,Tamil Nadu,Female,14,777,1420,10878,19880,9002
+23/10/2024,Horizon Health Solutions,Electronic,Speaker,Tamil Nadu,Female,26,674,953,17524,24778,7254
+24/10/2024,Crystal Clear Consulting,Electronic,Earbuds,Rajasthan,Female,28,537,1056,15036,29568,14532
+25/10/2024,Apex Marketing Solutions,Electronic,Earbuds,Uttar Pradesh,Male,29,774,1418,22446,41122,18676
+26/10/2024,Zenith Innovations,Electronic,Earbuds,Jharkhand,Male,23,746,1354,17158,31142,13984
+27/10/2024,Stellar Wellness Products,Fashion ,Women dress,Kerala,Male,69,921,1045,63549,72105,8556
+28/10/2024,Radiant Consulting Group,Fashion ,Women dress,Maharashtra,Male,60,729,996,43740,59760,16020
+29/10/2024,Harmony Ventures Co.,Fashion ,Women dress,Himachal Pradesh,Female,99,880,1451,87120,143649,56529
+30/10/2024,Urban Path Technologies,Fashion ,Women dress,Uttarakhand,Male,88,552,899,48576,79112,30536
+31/10/2024,True Essence Innovations,Electronic,Speaker,Assam,Male,29,895,1107,25955,32103,6148
+01/11/2024,Pinnacle Media Group,Electronic,Speaker,Punjab,Male,26,728,1242,18928,32292,13364
+02/11/2024,Legacy Design Co.,Electronic,Speaker,Chhattisgarh,Male,22,586,1093,12892,24046,11154
+03/11/2024,Apex Health Products,Electronic,Speaker,West Bengal,Female,29,724,1458,20996,42282,21286
+04/11/2024,Zenith Travel Ventures,Electronic,Speaker,West Bengal,Female,20,941,922,18820,18440,-380
+05/11/2024,Pure Path Consulting,Electronic,Speaker,Madhya Pradesh,Female,22,618,1113,13596,24486,10890
+06/11/2024,Radiance Solutions Co.,Fashion ,Male dress,Jharkhand,Female,74,714,1221,52836,90354,37518
+07/11/2024,Modern Vision Ventures,Fashion ,Male dress,West Bengal,Female,60,827,1113,49620,66780,17160
+08/11/2024,Elite Travel Services,Fashion ,Male dress,Karnataka,Female,64,529,1398,33856,89472,55616
+09/11/2024,Horizon Creative Solutions,Fashion ,Male dress,Delhi,Female,73,957,1256,69861,91688,21827
+10/11/2024,Crystal Innovations Group,Fashion ,Male dress,Maharashtra,Female,51,859,1278,43809,65178,21369
+11/11/2024,Pinnacle Fitness Studio,Fashion ,Male dress,West Bengal,Female,68,756,1231,51408,83708,32300
+12/11/2024,Stellar Travel Agency,Fashion ,Male dress,Tamil Nadu,Female,87,882,1333,76734,115971,39237
+13/11/2024,Harmony Educational Group,Electronic,TV,Karnataka,Male,28,896,1132,25088,31696,6608
+14/11/2024,Urban Spectrum Solutions,Electronic,TV,Telangana,Male,24,553,1357,13272,32568,19296
+15/11/2024,Radiant Design Studio,Electronic,TV,Gujarat,Male,28,986,1472,27608,41216,13608
+16/11/2024,Zenith Health Innovations,Electronic,TV,Maharashtra,Male,27,951,1137,25677,30699,5022
+17/11/2024,Apex Realty Ventures,Electronic,TV,Rajasthan,Male,22,783,1399,17226,30778,13552
+18/11/2024,Legacy Wellness Solutions,Electronic,TV,Gujarat,Female,22,688,1094,15136,24068,8932
+19/11/2024,True Value Ventures,Electronic,TV,Uttar Pradesh,Female,21,547,1063,11487,22323,10836
+20/11/2024,Horizon Media Solutions,Electronic,TV,Uttar Pradesh,Female,27,933,1301,25191,35127,9936
+21/11/2024,Crystal Clear Designs,Electronic,TV,Maharashtra,Male,20,737,1286,14740,25720,10980
+22/11/2024,Pinnacle Innovations Co.,Electronic,TV,Madhya Pradesh,Male,25,924,1347,23100,33675,10575
+23/11/2024,Modern Pathways,Electronic,TV,Maharashtra,Male,28,665,1049,18620,29372,10752
+24/11/2024,Stellar Finance Co.,Electronic,TV,Chandigarh,Male,24,839,1170,20136,28080,7944
+25/11/2024,Radiant Spectrum Group,Electronic,TV,Madhya Pradesh,Male,30,790,1163,23700,34890,11190
+26/11/2024,Harmony Design Ventures,Electronic,TV,Andhra Pradesh,Female,30,651,1430,19530,42900,23370
+27/11/2024,Elite Edge Products,Electronic,TV,Bihar,Female,23,531,921,12213,21183,8970
+28/11/2024,Zenith Consulting Co.,Electronic,Laptop,Gujarat,Female,30,591,1277,17730,38310,20580
+29/11/2024,Apex Wellness Products,Electronic,Laptop,Uttar Pradesh,Female,29,621,948,18009,27492,9483
+30/11/2024,Urban Vision Solutions,Electronic,Laptop,Uttar Pradesh,Female,20,989,1069,19780,21380,1600
+01/12/2024,Pure Harmony Innovations,Electronic,Laptop,Tamil Nadu,Female,30,857,1013,25710,30390,4680
+02/12/2024,Legacy Media Group,Electronic,Laptop,Tamil Nadu,Female,20,897,1430,17940,28600,10660
+03/12/2024,Pinnacle Travel Solutions,Electronic,Laptop,Rajasthan,Male,26,870,977,22620,25402,2782
+04/12/2024,Horizon Tech Innovations,Electronic,Laptop,Uttar Pradesh,Male,22,781,1065,17182,23430,6248
+05/12/2024,Crystal Spectrum Consulting,Electronic,Laptop,Jharkhand,Male,20,854,1261,17080,25220,8140
+06/12/2024,Stellar Creative Co.,Electronic,Laptop,Kerala,Male,26,909,1114,23634,28964,5330
+07/12/2024,Radiance Media Ventures,Electronic,Laptop,Maharashtra,Female,20,976,1195,19520,23900,4380
+08/12/2024,Harmony Health Solutions,Electronic,Laptop,Himachal Pradesh,Male,23,945,951,21735,21873,138
+09/12/2024,Zenith Edge Services,Electronic,Laptop,Uttarakhand,Male,24,787,1412,18888,33888,15000
+10/12/2024,Apex Travel Ventures,Fashion ,Saree,Assam,Male,51,685,956,34935,48756,13821
+11/12/2024,Modern Vision Solutions,Fashion ,Saree,Punjab,Male,78,522,1156,40716,90168,49452
+12/12/2024,True Path Consulting,Fashion ,Saree,Chhattisgarh,Female,72,765,937,55080,67464,12384
+13/12/2024,Legacy Finance Group,Fashion ,Saree,West Bengal,Female,54,702,1153,37908,62262,24354
+14/12/2024,Pinnacle Design Ventures,Fashion ,Saree,Gujarat,Female,97,917,1339,88949,129883,40934
+15/12/2024,Stellar Innovations Co.,Fashion ,Saree,Uttar Pradesh,Female,84,516,1412,43344,118608,75264
+16/12/2024,Radiant Educational Solutions,Fashion ,Saree,Uttar Pradesh,Female,60,642,1309,38520,78540,40020
+17/12/2024,Harmony Marketing Co.,Fashion ,Saree,Tamil Nadu,Female,92,789,1356,72588,124752,52164
+18/12/2024,Urban Tech Innovations,Fashion ,Saree,Tamil Nadu,Female,53,962,1361,50986,72133,21147
+19/12/2024,Crystal Wellness Group,Fashion ,Saree,Rajasthan,Female,81,565,1108,45765,89748,43983
+20/12/2024,Zenith Creative Solutions,Fashion ,Saree,Uttar Pradesh,Female,86,668,1140,57448,98040,40592
+21/12/2024,Apex Media Co.,Fashion ,Saree,Jharkhand,Female,96,715,1103,68640,105888,37248
+22/12/2024,Pure Vision Solutions,Fashion ,Suit,Kerala,Female,57,995,984,56715,56088,-627
+23/12/2024,Legacy Health Ventures,Fashion ,Suit,Maharashtra,Female,69,699,1284,48231,88596,40365
+24/12/2024,Pinnacle Spectrum Co.,Fashion ,Suit,Himachal Pradesh,Female,58,924,1206,53592,69948,16356
+25/12/2024,Stellar Travel Products,Fashion ,Suit,Uttarakhand,Female,83,790,1150,65570,95450,29880
+26/12/2024,Radiance Finance Services,Fashion ,Suit,Assam,Female,60,867,1453,52020,87180,35160
+27/12/2024,Harmony Edge Solutions,Fashion ,Suit,Punjab,Male,93,886,1258,82398,116994,34596
+28/12/2024,Modern Travel Agency,Fashion ,Suit,Chhattisgarh,Male,89,702,1162,62478,103418,40940
+29/12/2024,Crystal Path Consulting,Fashion ,Suit,West Bengal,Male,91,805,1403,73255,127673,54418
+30/12/2024,Zenith Educational Services,Fashion ,Suit,West Bengal,Male,78,682,1422,53196,110916,57720
+31/12/2024,Apex Innovations Co.,Fashion ,Suit,Madhya Pradesh,Male,54,990,895,53460,48330,-5130
+01/01/2025,Pure Harmony Health,Fashion ,Suit,Jharkhand,Female,72,749,1018,53928,73296,19368
+02/01/2025,Legacy Travel Ventures,Decor,Car accessories,West Bengal,Female,16,632,1204,10112,19264,9152
+03/01/2025,Pinnacle Media Solutions,Decor,Car accessories,Karnataka,Female,11,676,1211,7436,13321,5885
+04/01/2025,Stellar Design Group,Decor,Car accessories,Delhi,Female,11,731,895,8041,9845,1804
+05/01/2025,Radiant Tech Solutions,Decor,Car accessories,Maharashtra,Female,13,521,1325,6773,17225,10452
+06/01/2025,Horizon Ventures Co.,Decor,Car accessories,Punjab,Female,10,774,1371,7740,13710,5970
+07/01/2025,Elite Creative Solutions,Decor,Car accessories,Chhattisgarh,Female,16,887,1371,14192,21936,7744
+08/01/2025,Zenith Wellness Services,Decor,Car accessories,West Bengal,Male,11,986,1434,10846,15774,4928
+09/01/2025,Apex Travel Innovations,Fashion ,Saree,Gujarat,Male,51,925,1410,47175,71910,24735
+10/01/2025,Modern Health Products,Fashion ,Saree,Uttar Pradesh,Male,56,782,1182,43792,66192,22400
+11/01/2025,Harmony Finance Group,Fashion ,Saree,Uttar Pradesh,Male,92,978,1480,89976,136160,46184
+12/01/2025,Pure Vision Consulting,Fashion ,Saree,Tamil Nadu,Female,75,539,960,40425,72000,31575
+13/01/2025,Legacy Spectrum Co.,Fashion ,Saree,Tamil Nadu,Male,78,608,1296,47424,101088,53664
+14/01/2025,Pinnacle Design Solutions,Fashion ,Suit,Rajasthan,Male,90,554,1231,49860,110790,60930
+15/01/2025,Stellar Media Services,Fashion ,Suit,Uttar Pradesh,Male,66,831,1478,54846,97548,42702
+16/01/2025,Radiant Innovations Group,Fashion ,Suit,Jharkhand,Male,86,855,1111,73530,95546,22016
+17/01/2025,Horizon Path Ventures,Fashion ,Suit,Kerala,Female,84,948,923,79632,77532,-2100
+18/01/2025,Zenith Tech Co.,Fashion ,Suit,Maharashtra,Female,90,962,1124,86580,101160,14580
+19/01/2025,Apex Finance Ventures,Fashion ,Suit,Himachal Pradesh,Female,84,521,928,43764,77952,34188
+20/01/2025,Pure Harmony Solutions,Decor,Home décor,Uttarakhand,Female,11,587,1453,6457,15983,9526
+21/01/2025,Legacy Travel Co.,Decor,Home décor,Assam,Female,11,519,1458,5709,16038,10329
+22/01/2025,Pinnacle Innovations Group,Decor,Home décor,Punjab,Female,20,597,1166,11940,23320,11380
+23/01/2025,Stellar Health Services,Decor,Home décor,Chhattisgarh,Female,18,632,1302,11376,23436,12060
+24/01/2025,Radiance Design Co.,Decor,Home décor,West Bengal,Female,17,649,1255,11033,21335,10302
+25/01/2025,Harmony Consulting Group,Decor,Home décor,West Bengal,Female,18,587,972,10566,17496,6930
+26/01/2025,Zenith Path Solutions,Decor,Home décor,Madhya Pradesh,Female,18,910,1105,16380,19890,3510
+27/01/2025,Apex Educational Group,Decor,Home décor,Jharkhand,Male,19,701,1464,13319,27816,14497
+28/01/2025,Modern Wellness Co.,Decor,Home décor,West Bengal,Male,19,972,1262,18468,23978,5510
+29/01/2025,Pure Spectrum Innovations,Decor,Home décor,Uttar Pradesh,Male,13,615,1277,7995,16601,8606
+30/01/2025,Legacy Media Solutions,Decor,Home décor,Jharkhand,Male,11,543,1293,5973,14223,8250
+31/01/2025,Pinnacle Travel Co.,Decor,Home décor,Kerala,Male,19,864,1451,16416,27569,11153
+01/02/2025,Stellar Consulting Services,Electronic,Laptop,Maharashtra,Female,23,755,1184,17365,27232,9867
+02/02/2025,Radiant Ventures,Electronic,Laptop,Himachal Pradesh,Female,26,573,1442,14898,37492,22594
+03/02/2025,Harmony Tech Co.,Electronic,Laptop,Uttarakhand,Female,30,946,1123,28380,33690,5310
+04/02/2025,Zenith Creative Ventures,Electronic,Laptop,Assam,Male,22,679,956,14938,21032,6094
+05/02/2025,Apex Health Services,Electronic,Laptop,Punjab,Male,25,975,1335,24375,33375,9000
+06/02/2025,Pure Vision Media,Electronic,Laptop,Chhattisgarh,Male,24,642,1307,15408,31368,15960
+07/02/2025,Legacy Innovations Group,Electronic,Laptop,West Bengal,Male,29,598,900,17342,26100,8758
+08/02/2025,Pinnacle Consulting Co.,Electronic,Laptop,West Bengal,Male,22,719,1172,15818,25784,9966
+09/02/2025,Stellar Finance Group,Electronic,Laptop,Madhya Pradesh,Female,30,716,1219,21480,36570,15090
+10/02/2025,Radiant Solutions Co.,Electronic,Laptop,Jharkhand,Female,29,725,1096,21025,31784,10759
+11/02/2025,Harmony Ventures Group,Electronic,Laptop,Gujarat,Female,29,623,941,18067,27289,9222
+12/02/2025,Zenith Wellness Co.,Fashion ,Saree,Uttar Pradesh,Female,85,938,893,79730,75905,-3825
+13/02/2025,Apex Design Services,Fashion ,Saree,Uttar Pradesh,Female,62,562,1412,34844,87544,52700
+14/02/2025,Modern Travel Solutions,Fashion ,Saree,Tamil Nadu,Female,59,725,1407,42775,83013,40238
+15/02/2025,Pure Health Ventures,Fashion ,Saree,Tamil Nadu,Female,50,887,1139,44350,56950,12600
+16/02/2025,Legacy Spectrum Group,Fashion ,Saree,Rajasthan,Male,66,771,1347,50886,88902,38016
+17/02/2025,Pinnacle Media Ventures,Fashion ,Saree,Uttar Pradesh,Male,61,529,1136,32269,69296,37027
+18/02/2025,Stellar Innovations Group,Fashion ,Saree,Jharkhand,Male,78,511,1010,39858,78780,38922
+19/02/2025,Radiant Educational Co.,Fashion ,Saree,Kerala,Male,96,790,1088,75840,104448,28608
+20/02/2025,Harmony Edge Ventures,Fashion ,Saree,Maharashtra,Female,63,722,893,45486,56259,10773
+21/02/2025,Zenith Tech Solutions,Fashion ,Saree,Himachal Pradesh,Male,100,831,1370,83100,137000,53900
+22/02/2025,Apex Finance Group,Fashion ,Saree,Uttarakhand,Male,92,521,1373,47932,126316,78384
+23/02/2025,Pure Harmony Media,Fashion ,Saree,Assam,Male,65,661,1459,42965,94835,51870
+24/02/2025,Legacy Health Co.,Fashion ,Suit,Punjab,Male,77,595,1275,45815,98175,52360
+25/02/2025,ACCOUNTS EXPERT,Fashion ,CHAIR,Punjab,Male,62,774,1463,47988,90706,42718
+01/04/2024,Bharat Innovations,Electronic,Speaker,Delhi,Male,21,553,1146,11613,24066,12453
+02/04/2024,Green Leaf Enterprises,Electronic,Earbuds,Maharashtra,Male,30,719,1492,21570,44760,23190
+03/04/2024,Urban Pulse Technologies,Electronic,Earbuds,West Bengal,Male,25,980,1303,24500,32575,8075
+04/04/2024,Mystic India Exports,Electronic,Earbuds,Tamil Nadu,Male,22,718,1188,15796,26136,10340
+05/04/2024,Golden Horizon Ventures,Fashion ,Women dress,Karnataka,Male,65,816,1009,53040,65585,12545
+06/04/2024,Eternal Traditions,Fashion ,Women dress,Telangana,Male,100,893,1074,89300,107400,18100
+07/04/2024,Apex Solutions,Fashion ,Women dress,Gujarat,Male,78,655,1045,51090,81510,30420
+08/04/2024,Harmony Foods,Fashion ,Women dress,Maharashtra,Male,79,632,1133,49928,89507,39579
+09/04/2024,Pure Essence Skincare,Electronic,Speaker,Rajasthan,Female,30,520,1274,15600,38220,22620
+10/04/2024,Zenith Construction Co.,Electronic,Speaker,Gujarat,Female,26,808,1142,21008,29692,8684
+11/04/2024,Radiant Health Systems,Electronic,Speaker,Uttar Pradesh,Female,23,504,929,11592,21367,9775
+12/04/2024,Divine Creations,Electronic,Speaker,Uttar Pradesh,Female,28,918,1469,25704,41132,15428
+13/04/2024,Metro Tech Solutions,Electronic,Speaker,Maharashtra,Female,22,755,1291,16610,28402,11792
+14/04/2024,True Path Logistics,Electronic,Speaker,Madhya Pradesh,Female,27,966,1136,26082,30672,4590
+15/04/2024,Sacred Roots Apparel,Fashion ,Male dress,Maharashtra,Female,74,859,906,63566,67044,3478
+16/04/2024,Quantum Finance Services,Fashion ,Male dress,Chandigarh,Female,77,579,1326,44583,102102,57519
+17/04/2024,Brilliant Minds Academy,Fashion ,Male dress,Madhya Pradesh,Female,61,865,1340,52765,81740,28975
+18/04/2024,Visionary Holdings,Fashion ,Male dress,Andhra Pradesh,Female,57,881,1457,50217,83049,32832
+19/04/2024,Stellar Design Studio,Fashion ,Male dress,Bihar,Female,57,548,1451,31236,82707,51471
+20/04/2024,Classic Cuisines,Fashion ,Male dress,Gujarat,Male,84,702,1319,58968,110796,51828
+21/04/2024,Bold Ventures,Fashion ,Male dress,Uttar Pradesh,Male,76,875,1259,66500,95684,29184
+22/04/2024,Prestige Automobiles,Electronic,TV,Uttar Pradesh,Male,20,664,1236,13280,24720,11440
+23/04/2024,Elite Marketing Solutions,Electronic,TV,Tamil Nadu,Male,23,627,1255,14421,28865,14444
+24/04/2024,Natural Bliss Beverages,Electronic,TV,Tamil Nadu,Male,26,608,1221,15808,31746,15938
+25/04/2024,Crystal Clear Solutions,Electronic,TV,Rajasthan,Female,23,938,1081,21574,24863,3289
+26/04/2024,Modern Trends Fashion,Electronic,TV,Uttar Pradesh,Female,24,826,1027,19824,24648,4824
+27/04/2024,Heritage Crafts,Electronic,TV,Jharkhand,Female,24,877,1049,21048,25176,4128
+28/04/2024,Future Insights Analytics,Electronic,TV,Kerala,Female,23,736,985,16928,22655,5727
+29/04/2024,Emerald Estate Developers,Electronic,TV,Maharashtra,Female,27,828,1378,22356,37206,14850
+30/04/2024,Starlight Media Group,Electronic,TV,Himachal Pradesh,Female,28,901,963,25228,26964,1736
+01/05/2024,Supreme Electronics,Electronic,TV,Uttarakhand,Female,28,796,1230,22288,34440,12152
+02/05/2024,Optimum Wellness,Electronic,TV,Assam,Male,27,794,1184,21438,31968,10530
+03/05/2024,Zenith Books Publishing,Electronic,TV,Punjab,Male,20,812,1108,16240,22160,5920
+04/05/2024,Pinnacle Innovations,Electronic,TV,Chhattisgarh,Male,20,908,1335,18160,26700,8540
+05/05/2024,Apex Travel Services,Electronic,TV,West Bengal,Male,23,846,1460,19458,33580,14122
+06/05/2024,Golden Era Realty,Electronic,TV,West Bengal,Female,25,627,1315,15675,32875,17200
+07/05/2024,Radiant Jewelry,Electronic,Laptop,Madhya Pradesh,Female,27,817,1245,22059,33615,11556
+08/05/2024,Infinity Ventures,Electronic,Laptop,Jharkhand,Female,27,675,1163,18225,31401,13176
+09/05/2024,Royal Taste Foods,Electronic,Laptop,West Bengal,Female,22,695,918,15290,20196,4906
+10/05/2024,Harmony Homes,Electronic,Laptop,Karnataka,Female,21,781,1061,16401,22281,5880
+11/05/2024,Urban Edge Consulting,Electronic,Laptop,Delhi,Female,25,517,1180,12925,29500,16575
+12/05/2024,Prime Tech Innovations,Electronic,Laptop,Maharashtra,Female,24,730,1234,17520,29616,12096
+13/05/2024,Legacy Designs,Electronic,Laptop,West Bengal,Female,23,811,1086,18653,24978,6325
+14/05/2024,Virtue Enterprises,Electronic,Laptop,Tamil Nadu,Female,21,967,1423,20307,29883,9576
+15/05/2024,Radiant Health Club,Electronic,Laptop,Karnataka,Female,29,655,1132,18995,32828,13833
+16/05/2024,Bright Horizon Ventures,Electronic,Laptop,Telangana,Male,30,616,1159,18480,34770,16290
+17/05/2024,Modern Lifestyle Products,Electronic,Laptop,Gujarat,Male,30,709,1305,21270,39150,17880
+18/05/2024,Nexus Trading Co.,Electronic,Laptop,Maharashtra,Male,23,875,1376,20125,31648,11523
+19/05/2024,Radiance Spa,Fashion ,Saree,Rajasthan,Male,50,885,1238,44250,61900,17650
+20/05/2024,Absolute Solutions,Fashion ,Saree,Gujarat,Male,90,718,1346,64620,121140,56520
+21/05/2024,Verve Fitness Studio,Fashion ,Saree,Uttar Pradesh,Female,53,950,919,50350,48707,-1643
+22/05/2024,Sparkle Cleaners,Fashion ,Saree,Uttar Pradesh,Female,62,623,1463,38626,90706,52080
+23/05/2024,Global Reach Logistics,Fashion ,Saree,Maharashtra,Female,72,920,1333,66240,95976,29736
+24/05/2024,Noble Path Finance,Fashion ,Saree,Madhya Pradesh,Female,69,860,1028,59340,70932,11592
+25/05/2024,Dynamic Events Management,Fashion ,Saree,Maharashtra,Female,80,765,1025,61200,82000,20800
+26/05/2024,Crystal Waters Resort,Fashion ,Saree,Chandigarh,Female,75,690,898,51750,67350,15600
+27/05/2024,Excellence Tutors,Fashion ,Saree,Madhya Pradesh,Female,100,795,1235,79500,123500,44000
+28/05/2024,Horizon Builders,Fashion ,Saree,Andhra Pradesh,Male,85,845,1374,71825,116790,44965
+29/05/2024,Synergy Tech Solutions,Fashion ,Saree,Bihar,Male,59,716,1384,42244,81656,39412
+30/05/2024,Classic Heritage Crafts,Fashion ,Saree,Gujarat,Male,51,876,934,44676,47634,2958
+31/05/2024,Prime Focus Media,Fashion ,Suit,Uttar Pradesh,Male,55,793,1289,43615,70895,27280
+01/06/2024,Noble Nutraceuticals,Fashion ,Suit,Uttar Pradesh,Female,82,641,964,52562,79048,26486
+02/06/2024,Supreme Travel Agency,Fashion ,Suit,Tamil Nadu,Male,80,678,1088,54240,87040,32800
+03/06/2024,Future Vision Tech,Fashion ,Suit,Tamil Nadu,Male,76,585,1399,44460,106324,61864
+04/06/2024,Urban Groove Apparel,Fashion ,Suit,Rajasthan,Male,93,662,1440,61566,133920,72354
+05/06/2024,Echo Real Estate,Fashion ,Suit,Uttar Pradesh,Male,51,744,1324,37944,67524,29580
+06/06/2024,Pinnacle Health Products,Fashion ,Suit,Jharkhand,Female,88,820,1182,72160,104016,31856
+07/06/2024,Apex Auto Care,Fashion ,Suit,Kerala,Female,72,937,1264,67464,91008,23544
+08/06/2024,Royal Glow Cosmetics,Fashion ,Suit,Maharashtra,Female,55,685,1135,37675,62425,24750
+09/06/2024,Zenith Culinary Arts,Fashion ,Suit,Himachal Pradesh,Female,55,661,1210,36355,66550,30195
+10/06/2024,Visionary Tours,Fashion ,Suit,Uttarakhand,Female,72,804,1389,57888,100008,42120
+11/06/2024,Horizon Wellness,Decor,Car accessories,Assam,Female,13,643,1098,8359,14274,5915
+12/06/2024,True Value Electronics,Decor,Car accessories,Punjab,Female,16,848,894,13568,14304,736
+13/06/2024,Harmony Homes Realty,Decor,Car accessories,Chhattisgarh,Female,19,982,1253,18658,23807,5149
+14/06/2024,Stellar Advertising,Decor,Car accessories,West Bengal,Female,19,918,1364,17442,25916,8474
+15/06/2024,Radiant Enterprise Solutions,Decor,Car accessories,West Bengal,Female,17,901,1395,15317,23715,8398
+16/06/2024,Modern Trends Retail,Decor,Car accessories,Madhya Pradesh,Male,17,787,1165,13379,19805,6426
+17/06/2024,Global Spectrum Consulting,Decor,Car accessories,Jharkhand,Male,15,545,1113,8175,16695,8520
+18/06/2024,Elite Essence Products,Fashion ,Saree,West Bengal,Male,87,616,916,53592,79692,26100
+19/06/2024,Dynamic Creations,Fashion ,Saree,Karnataka,Male,57,724,923,41268,52611,11343
+20/06/2024,Quantum Design Studio,Fashion ,Saree,Delhi,Male,85,639,920,54315,78200,23885
+21/06/2024,Infinite Solutions,Fashion ,Saree,Maharashtra,Female,83,889,1363,73787,113129,39342
+22/06/2024,Apex Construction,Fashion ,Saree,West Bengal,Female,81,776,1318,62856,106758,43902
+23/06/2024,Legacy Innovations,Fashion ,Suit,Tamil Nadu,Female,86,705,1007,60630,86602,25972
+24/06/2024,Pure Harmony Foods,Fashion ,Suit,Karnataka,Male,80,901,1198,72080,95840,23760
+25/06/2024,Zenith Security Systems,Fashion ,Suit,Telangana,Male,59,502,1430,29618,84370,54752
+26/06/2024,Crystal Clear Beverages,Fashion ,Suit,Gujarat,Male,52,556,1041,28912,54132,25220
+27/06/2024,Metro Line Tech,Fashion ,Suit,Maharashtra,Male,92,953,888,87676,81696,-5980
+28/06/2024,Urban Pulse Consulting,Fashion ,Suit,Rajasthan,Male,96,961,1234,92256,118464,26208
+29/06/2024,Radiant Vision Studios,Decor,Home décor,Gujarat,Female,11,616,1429,6776,15719,8943
+30/06/2024,Noble Travel Services,Decor,Home décor,Uttar Pradesh,Female,16,911,1482,14576,23712,9136
+01/07/2024,Bright Future Academy,Decor,Home décor,Uttar Pradesh,Female,19,816,1069,15504,20311,4807
+02/07/2024,Synergy Solutions Group,Decor,Home décor,Maharashtra,Female,14,684,983,9576,13762,4186
+03/07/2024,Visionary Health Systems,Decor,Home décor,Madhya Pradesh,Female,16,693,1417,11088,22672,11584
+04/07/2024,Apex Retailers,Decor,Home décor,Maharashtra,Female,14,965,1403,13510,19642,6132
+05/07/2024,Prestige Property Developers,Decor,Home décor,Chandigarh,Female,20,960,1498,19200,29960,10760
+06/07/2024,Classic Trends Fashion,Decor,Home décor,Madhya Pradesh,Male,16,734,940,11744,15040,3296
+07/07/2024,Harmony Ventures,Decor,Home décor,Andhra Pradesh,Male,16,673,1105,10768,17680,6912
+08/07/2024,Stellar Realty,Decor,Home décor,Bihar,Male,14,782,1372,10948,19208,8260
+09/07/2024,Future Path Technologies,Decor,Home décor,Gujarat,Male,19,536,965,10184,18335,8151
+10/07/2024,Elite Edge Services,Decor,Home décor,Uttar Pradesh,Female,11,991,1490,10901,16390,5489
+11/07/2024,Radiance Health and Wellness,Electronic,Laptop,Uttar Pradesh,Male,26,766,1224,19916,31824,11908
+12/07/2024,Legacy Auto Works,Electronic,Laptop,Tamil Nadu,Male,23,589,1165,13547,26795,13248
+13/07/2024,Prime Essence Creations,Electronic,Laptop,Tamil Nadu,Male,24,718,1150,17232,27600,10368
+14/07/2024,Quantum Ventures,Electronic,Laptop,Rajasthan,Male,22,877,1452,19294,31944,12650
+15/07/2024,Horizon Tech Solutions,Electronic,Laptop,Uttar Pradesh,Female,23,559,952,12857,21896,9039
+16/07/2024,Urban Legends Apparel,Electronic,Laptop,Jharkhand,Female,23,641,1117,14743,25691,10948
+17/07/2024,Pure Bliss Beverages,Electronic,Laptop,Kerala,Female,30,916,1306,27480,39180,11700
+18/07/2024,Noble Heights Builders,Electronic,Laptop,Maharashtra,Female,28,588,889,16464,24892,8428
+19/07/2024,Radiant Foods,Electronic,Laptop,Himachal Pradesh,Female,26,969,1343,25194,34918,9724
+20/07/2024,Zenith Financial Services,Electronic,Laptop,Uttarakhand,Female,25,839,1091,20975,27275,6300
+21/07/2024,Apex Travel Ventures,Electronic,Laptop,Assam,Female,25,536,935,13400,23375,9975
+22/07/2024,Legacy Design Group,Fashion ,Saree,Punjab,Female,79,880,1006,69520,79474,9954
+23/07/2024,Supreme Wellness,Fashion ,Saree,Chhattisgarh,Female,62,936,1020,58032,63240,5208
+24/07/2024,Harmony Tech Innovations,Fashion ,Saree,West Bengal,Female,53,791,1156,41923,61268,19345
+25/07/2024,Stellar Education Services,Fashion ,Saree,West Bengal,Female,56,740,1101,41440,61656,20216
+26/07/2024,Visionary Health Products,Fashion ,Saree,Madhya Pradesh,Female,63,519,1446,32697,91098,58401
+27/07/2024,Crystal Innovations,Fashion ,Saree,Jharkhand,Female,73,857,1092,62561,79716,17155
+28/07/2024,Future Trends Retail,Fashion ,Saree,West Bengal,Female,67,725,1287,48575,86229,37654
+29/07/2024,Radiant Horizon Ventures,Fashion ,Saree,Karnataka,Female,74,691,998,51134,73852,22718
+30/07/2024,Urban Edge Realty,Fashion ,Saree,Delhi,Male,92,981,1262,90252,116104,25852
+31/07/2024,Prime Focus Innovations,Fashion ,Saree,Maharashtra,Male,63,547,1461,34461,92043,57582
+01/08/2024,Elite Spectrum Consulting,Fashion ,Saree,West Bengal,Male,69,531,1261,36639,87009,50370
+02/08/2024,Dynamic Design Studio,Fashion ,Saree,Tamil Nadu,Male,84,806,1470,67704,123480,55776
+03/08/2024,Apex Wellness Solutions,Fashion ,Suit,Karnataka,Male,66,715,1129,47190,74514,27324
+04/08/2024,Royal Crest Foods,Fashion ,Suit,Telangana,Female,71,565,1309,40115,92939,52824
+05/08/2024,Zenith Travels,Fashion ,Suit,Gujarat,Female,90,634,956,57060,86040,28980
+06/08/2024,Modern Harmony Products,Decor,Home décor,Maharashtra,Female,10,844,1370,8440,13700,5260
+07/08/2024,Horizon Builders & Developers,Decor,Home décor,Rajasthan,Female,20,803,916,16060,18320,2260
+08/08/2024,Radiance Tech Solutions,Decor,Home décor,Gujarat,Female,10,812,1189,8120,11890,3770
+09/08/2024,Legacy Apparel,Decor,Home décor,Uttar Pradesh,Female,12,606,1378,7272,16536,9264
+10/08/2024,Pinnacle Education Group,Decor,Home décor,Uttar Pradesh,Female,11,622,1267,6842,13937,7095
+11/08/2024,Noble Innovations,Decor,Home décor,Maharashtra,Male,17,671,1070,11407,18190,6783
+12/08/2024,Crystal Clear Realty,Decor,Home décor,Madhya Pradesh,Male,12,814,1427,9768,17124,7356
+13/08/2024,Future Vision Realty,Electronic,Laptop,Maharashtra,Male,27,966,1272,26082,34344,8262
+14/08/2024,Urban Pulse Media,Electronic,Laptop,Chandigarh,Male,23,694,1075,15962,24725,8763
+15/08/2024,True Essence Health,Electronic,Laptop,Madhya Pradesh,Female,22,749,929,16478,20438,3960
+16/08/2024,Apex Enterprise Solutions,Electronic,Laptop,Andhra Pradesh,Male,22,888,1278,19536,28116,8580
+17/08/2024,Radiant Vision Realty,Electronic,Laptop,Bihar,Male,24,845,1092,20280,26208,5928
+18/08/2024,Harmony Consulting Group,Electronic,Laptop,Gujarat,Male,29,872,1287,25288,37323,12035
+19/08/2024,Zenith Tech Ventures,Electronic,Laptop,Uttar Pradesh,Male,27,674,1316,18198,35532,17334
+20/08/2024,Stellar Health Services,Electronic,Laptop,Uttar Pradesh,Female,27,583,1332,15741,35964,20223
+21/08/2024,Pure Path Foods,Electronic,Laptop,Tamil Nadu,Female,21,929,1207,19509,25347,5838
+22/08/2024,Prestige Solutions,Electronic,Laptop,Tamil Nadu,Female,29,818,1256,23722,36424,12702
+23/08/2024,Bright Horizon Realty,Electronic,Laptop,Rajasthan,Female,28,873,1472,24444,41216,16772
+24/08/2024,Quantum Media Group,Fashion ,Saree,Uttar Pradesh,Female,61,675,1355,41175,82655,41480
+25/08/2024,Legacy Builders,Fashion ,Saree,Jharkhand,Female,58,720,1187,41760,68846,27086
+26/08/2024,Apex Spa & Wellness,Fashion ,Saree,Kerala,Female,60,676,1112,40560,66720,26160
+27/08/2024,Radiant Travel Services,Fashion ,Saree,Maharashtra,Female,91,808,1008,73528,91728,18200
+28/08/2024,Modern Trends Consulting,Fashion ,Saree,Himachal Pradesh,Female,99,528,1208,52272,119592,67320
+29/08/2024,Global Horizon Ventures,Fashion ,Saree,Uttarakhand,Female,73,783,991,57159,72343,15184
+30/08/2024,Elite Enterprises,Fashion ,Saree,Assam,Male,59,638,1062,37642,62658,25016
+31/08/2024,Urban Wave Solutions,Fashion ,Saree,Punjab,Male,60,645,1094,38700,65640,26940
+01/09/2024,Pinnacle Health Innovations,Fashion ,Saree,Chhattisgarh,Male,68,881,1338,59908,90984,31076
+02/09/2024,Horizon Fashion,Fashion ,Suit,West Bengal,Male,55,639,1346,35145,74030,38885
+03/09/2024,Crystal Essence Beverages,Fashion ,Suit,West Bengal,Male,52,718,1051,37336,54652,17316
+04/09/2024,Dynamic Pathways,Fashion ,Suit,Madhya Pradesh,Female,95,944,1293,89680,122835,33155
+05/09/2024,Visionary Realty Solutions,Fashion ,Suit,Jharkhand,Female,68,777,977,52836,66436,13600
+06/09/2024,Radiance Apparel,Fashion ,Suit,West Bengal,Female,99,523,1373,51777,135927,84150
+07/09/2024,Zenith Design Group,Fashion ,Suit,Karnataka,Male,92,814,1243,74888,114356,39468
+08/09/2024,Apex Publishing House,Decor,Home décor,Delhi,Male,11,960,891,10560,9801,-759
+09/09/2024,True Value Consulting,Decor,Home décor,Maharashtra,Male,10,654,908,6540,9080,2540
+10/09/2024,Future Path Ventures,Decor,Home décor,West Bengal,Male,14,504,1480,7056,20720,13664
+11/09/2024,Stellar Tech Services,Decor,Home décor,Tamil Nadu,Male,12,886,1322,10632,15864,5232
+12/09/2024,Legacy Travel Agency,Decor,Home décor,Karnataka,Female,10,554,1091,5540,10910,5370
+13/09/2024,Harmony Innovations,Decor,Home décor,Telangana,Female,14,933,1357,13062,18998,5936
+14/09/2024,Pure Essence Solutions,Decor,Home décor,Gujarat,Female,19,576,966,10944,18354,7410
+15/09/2024,Elite Media Group,Decor,Home décor,Maharashtra,Female,15,674,1230,10110,18450,8340
+16/09/2024,Radiant Construction,Decor,Home décor,Rajasthan,Female,20,529,1034,10580,20680,10100
+17/09/2024,Pinnacle Finance,Decor,Home décor,Gujarat,Female,18,717,980,12906,17640,4734
+18/09/2024,Horizon Tech Ventures,Decor,Home décor,Uttar Pradesh,Female,17,966,1268,16422,21556,5134
+19/09/2024,Crystal Health Solutions,Decor,Home décor,Uttar Pradesh,Male,16,689,1294,11024,20704,9680
+20/09/2024,Modern Horizons Consulting,Fashion ,Suit,Maharashtra,Male,62,891,1156,55242,71672,16430
+21/09/2024,Apex Realty Services,Fashion ,Suit,Madhya Pradesh,Male,89,990,1277,88110,113653,25543
+22/09/2024,Zenith Educational Group,Fashion ,Suit,Maharashtra,Male,61,907,1083,55327,66063,10736
+23/09/2024,True Path Ventures,Fashion ,Suit,Chandigarh,Female,52,766,1244,39832,64688,24856
+24/09/2024,Radiance Media,Fashion ,Suit,Madhya Pradesh,Male,96,520,1317,49920,126432,76512
+25/09/2024,Legacy Health Systems,Fashion ,Suit,Andhra Pradesh,Male,90,792,1085,71280,97650,26370
+26/09/2024,Urban Focus Products,Fashion ,Suit,Bihar,Male,98,711,1079,69678,105742,36064
+27/09/2024,Elite Edge Consulting,Decor,Car accessories,Gujarat,Male,16,599,1314,9584,21024,11440
+28/09/2024,Stellar Travel Solutions,Decor,Car accessories,Uttar Pradesh,Female,18,835,1041,15030,18738,3708
+29/09/2024,Harmony Tech Ventures,Decor,Car accessories,Uttar Pradesh,Female,12,827,1064,9924,12768,2844
+30/09/2024,Pure Harmony Solutions,Decor,Car accessories,Tamil Nadu,Female,13,855,1347,11115,17511,6396
+01/10/2024,Radiant Fitness Studio,Decor,Car accessories,Tamil Nadu,Female,17,932,1207,15844,20519,4675
+02/10/2024,Zenith Finance Co.,Decor,Car accessories,Rajasthan,Female,11,654,1381,7194,15191,7997
+03/10/2024,Apex Events Management,Decor,Car accessories,Uttar Pradesh,Female,19,764,1310,14516,24890,10374
+04/10/2024,Visionary Innovations,Fashion ,Saree,Jharkhand,Female,93,660,1458,61380,135594,74214
+05/10/2024,Horizon Design Studio,Fashion ,Saree,Kerala,Female,59,623,1328,36757,78352,41595
+06/10/2024,Modern Spectrum Solutions,Fashion ,Saree,Maharashtra,Female,79,683,913,53957,72127,18170
+07/10/2024,Legacy Tech Products,Fashion ,Saree,Himachal Pradesh,Female,98,865,1039,84770,101822,17052
+08/10/2024,Pinnacle Wellness Services,Fashion ,Saree,Uttarakhand,Female,83,709,1468,58847,121844,62997
+09/10/2024,Urban Insight Consulting,Fashion ,Suit,Assam,Female,69,657,1144,45333,78936,33603
+10/10/2024,Crystal Horizons,Fashion ,Suit,Punjab,Female,81,709,1055,57429,85455,28026
+11/10/2024,Radiant Apparel,Fashion ,Suit,Chhattisgarh,Female,61,547,1187,33367,72407,39040
+12/10/2024,True Value Products,Fashion ,Suit,West Bengal,Female,57,734,1024,41838,58368,16530
+13/10/2024,Apex Creative Solutions,Fashion ,Suit,West Bengal,Male,67,711,1122,47637,75174,27537
+14/10/2024,Zenith Health Products,Fashion ,Suit,Madhya Pradesh,Male,60,937,1022,56220,61320,5100
+15/10/2024,Stellar Media Group,Decor,Home décor,Jharkhand,Male,15,906,1130,13590,16950,3360
+16/10/2024,Harmony Finance Co.,Decor,Home décor,West Bengal,Male,20,780,1310,15600,26200,10600
+17/10/2024,Pure Vision Ventures,Decor,Home décor,Karnataka,Male,17,747,1100,12699,18700,6001
+18/10/2024,Radiance Solutions Group,Decor,Home décor,Bihar,Female,20,963,1359,19260,27180,7920
+19/10/2024,Legacy Travel Services,Decor,Home décor,Gujarat,Female,15,747,1465,11205,21975,10770
+20/10/2024,Elite Spectrum Media,Decor,Home décor,Uttar Pradesh,Female,20,844,1246,16880,24920,8040
+21/10/2024,Modern Edge Solutions,Decor,Home décor,Uttar Pradesh,Female,14,913,1339,12782,18746,5964
+22/10/2024,Pinnacle Design Studio,Decor,Home décor,Tamil Nadu,Female,14,799,1464,11186,20496,9310
+23/10/2024,Horizon Health Solutions,Electronic,Speaker,Tamil Nadu,Female,23,616,1017,14168,23391,9223
+24/10/2024,Crystal Clear Consulting,Electronic,Earbuds,Rajasthan,Female,21,541,1019,11361,21399,10038
+25/10/2024,Apex Marketing Solutions,Electronic,Earbuds,Uttar Pradesh,Male,28,539,1450,15092,40600,25508
+26/10/2024,Zenith Innovations,Electronic,Earbuds,Jharkhand,Male,22,725,1108,15950,24376,8426
+27/10/2024,Stellar Wellness Products,Fashion ,Women dress,Kerala,Male,71,777,1399,55167,99329,44162
+28/10/2024,Radiant Consulting Group,Fashion ,Women dress,Maharashtra,Male,52,509,1086,26468,56472,30004
+29/10/2024,Harmony Ventures Co.,Fashion ,Women dress,Himachal Pradesh,Female,66,701,1258,46266,83028,36762
+30/10/2024,Urban Path Technologies,Fashion ,Women dress,Uttarakhand,Male,97,654,1407,63438,136479,73041
+31/10/2024,True Essence Innovations,Electronic,Speaker,Assam,Male,21,596,1109,12516,23289,10773
+01/11/2024,Pinnacle Media Group,Electronic,Speaker,Punjab,Male,30,910,1302,27300,39060,11760
+02/11/2024,Legacy Design Co.,Electronic,Speaker,Chhattisgarh,Male,25,532,1215,13300,30375,17075
+03/11/2024,Apex Health Products,Electronic,Speaker,West Bengal,Female,29,813,926,23577,26854,3277
+04/11/2024,Zenith Travel Ventures,Electronic,Speaker,West Bengal,Female,28,858,1253,24024,35084,11060
+05/11/2024,Pure Path Consulting,Electronic,Speaker,Madhya Pradesh,Female,24,641,943,15384,22632,7248
+06/11/2024,Radiance Solutions Co.,Fashion ,Male dress,Jharkhand,Female,74,636,1004,47064,74296,27232
+07/11/2024,Modern Vision Ventures,Fashion ,Male dress,West Bengal,Female,63,833,1052,52479,66276,13797
+08/11/2024,Elite Travel Services,Fashion ,Male dress,Karnataka,Female,74,743,1443,54982,106782,51800
+09/11/2024,Horizon Creative Solutions,Fashion ,Male dress,Delhi,Female,83,569,1100,47227,91300,44073
+10/11/2024,Crystal Innovations Group,Fashion ,Male dress,Maharashtra,Female,86,593,949,50998,81614,30616
+11/11/2024,Pinnacle Fitness Studio,Fashion ,Male dress,West Bengal,Female,92,609,1036,56028,95312,39284
+12/11/2024,Stellar Travel Agency,Fashion ,Male dress,Tamil Nadu,Female,96,674,1248,64704,119808,55104
+13/11/2024,Harmony Educational Group,Electronic,TV,Karnataka,Male,25,709,1086,17725,27150,9425
+14/11/2024,Urban Spectrum Solutions,Electronic,TV,Telangana,Male,23,663,1041,15249,23943,8694
+15/11/2024,Radiant Design Studio,Electronic,TV,Gujarat,Male,25,802,1470,20050,36750,16700
+16/11/2024,Zenith Health Innovations,Electronic,TV,Maharashtra,Male,23,893,1042,20539,23966,3427
+17/11/2024,Apex Realty Ventures,Electronic,TV,Rajasthan,Male,29,852,1242,24708,36018,11310
+18/11/2024,Legacy Wellness Solutions,Electronic,TV,Gujarat,Female,26,878,1039,22828,27014,4186
+19/11/2024,True Value Ventures,Electronic,TV,Uttar Pradesh,Female,23,747,996,17181,22908,5727
+20/11/2024,Horizon Media Solutions,Electronic,TV,Uttar Pradesh,Female,25,547,958,13675,23950,10275
+21/11/2024,Crystal Clear Designs,Electronic,TV,Maharashtra,Male,26,625,1030,16250,26780,10530
+22/11/2024,Pinnacle Innovations Co.,Electronic,TV,Madhya Pradesh,Male,23,706,1162,16238,26726,10488
+23/11/2024,Modern Pathways,Electronic,TV,Maharashtra,Male,28,858,1075,24024,30100,6076
+24/11/2024,Stellar Finance Co.,Electronic,TV,Chandigarh,Male,24,736,1125,17664,27000,9336
+25/11/2024,Radiant Spectrum Group,Electronic,TV,Madhya Pradesh,Male,20,599,1355,11980,27100,15120
+26/11/2024,Harmony Design Ventures,Electronic,TV,Andhra Pradesh,Female,22,524,1003,11528,22066,10538
+27/11/2024,Elite Edge Products,Electronic,TV,Bihar,Female,27,744,1456,20088,39312,19224
+28/11/2024,Zenith Consulting Co.,Electronic,Laptop,Gujarat,Female,27,826,1046,22302,28242,5940
+29/11/2024,Apex Wellness Products,Electronic,Laptop,Uttar Pradesh,Female,27,573,1237,15471,33399,17928
+30/11/2024,Urban Vision Solutions,Electronic,Laptop,Uttar Pradesh,Female,22,606,1298,13332,28556,15224
+01/12/2024,Pure Harmony Innovations,Electronic,Laptop,Tamil Nadu,Female,28,798,1398,22344,39144,16800
+02/12/2024,Legacy Media Group,Electronic,Laptop,Tamil Nadu,Female,25,982,1400,24550,35000,10450
+03/12/2024,Pinnacle Travel Solutions,Electronic,Laptop,Rajasthan,Male,28,507,1387,14196,38836,24640
+04/12/2024,Horizon Tech Innovations,Electronic,Laptop,Uttar Pradesh,Male,29,841,1434,24389,41586,17197
+05/12/2024,Crystal Spectrum Consulting,Electronic,Laptop,Jharkhand,Male,21,691,924,14511,19404,4893
+06/12/2024,Stellar Creative Co.,Electronic,Laptop,Kerala,Male,24,526,1179,12624,28296,15672
+07/12/2024,Radiance Media Ventures,Electronic,Laptop,Maharashtra,Female,29,932,1261,27028,36569,9541
+08/12/2024,Harmony Health Solutions,Electronic,Laptop,Himachal Pradesh,Male,29,989,1096,28681,31784,3103
+09/12/2024,Zenith Edge Services,Electronic,Laptop,Uttarakhand,Male,22,603,1016,13266,22352,9086
+10/12/2024,Apex Travel Ventures,Fashion ,Saree,Assam,Male,65,804,1272,52260,82680,30420
+11/12/2024,Modern Vision Solutions,Fashion ,Saree,Punjab,Male,55,666,1192,36630,65560,28930
+12/12/2024,True Path Consulting,Fashion ,Saree,Chhattisgarh,Female,83,541,1299,44903,107817,62914
+13/12/2024,Legacy Finance Group,Fashion ,Saree,West Bengal,Female,89,545,1483,48505,131987,83482
+14/12/2024,Pinnacle Design Ventures,Fashion ,Saree,Gujarat,Female,80,671,1010,53680,80800,27120
+15/12/2024,Stellar Innovations Co.,Fashion ,Saree,Uttar Pradesh,Female,68,815,967,55420,65756,10336
+16/12/2024,Radiant Educational Solutions,Fashion ,Saree,Uttar Pradesh,Female,94,616,1251,57904,117594,59690
+17/12/2024,Harmony Marketing Co.,Fashion ,Saree,Tamil Nadu,Female,88,674,1474,59312,129712,70400
+18/12/2024,Urban Tech Innovations,Fashion ,Saree,Tamil Nadu,Female,64,665,1167,42560,74688,32128
+19/12/2024,Crystal Wellness Group,Fashion ,Saree,Rajasthan,Female,81,801,941,64881,76221,11340
+20/12/2024,Zenith Creative Solutions,Fashion ,Saree,Uttar Pradesh,Female,67,898,1137,60166,76179,16013
+21/12/2024,Apex Media Co.,Fashion ,Saree,Jharkhand,Female,74,734,1314,54316,97236,42920
+22/12/2024,Pure Vision Solutions,Fashion ,Suit,Kerala,Female,72,603,1099,43416,79128,35712
+23/12/2024,Legacy Health Ventures,Fashion ,Suit,Maharashtra,Female,94,564,1350,53016,126900,73884
+24/12/2024,Pinnacle Spectrum Co.,Fashion ,Suit,Himachal Pradesh,Female,50,545,1205,27250,60250,33000
+25/12/2024,Stellar Travel Products,Fashion ,Suit,Uttarakhand,Female,60,783,1144,46980,68640,21660
+26/12/2024,Radiance Finance Services,Fashion ,Suit,Assam,Female,63,746,950,46998,59850,12852
+27/12/2024,Harmony Edge Solutions,Fashion ,Suit,Punjab,Male,97,500,1262,48500,122414,73914
+28/12/2024,Modern Travel Agency,Fashion ,Suit,Chhattisgarh,Male,86,834,1468,71724,126248,54524
+29/12/2024,Crystal Path Consulting,Fashion ,Suit,West Bengal,Male,51,944,1014,48144,51714,3570
+30/12/2024,Zenith Educational Services,Fashion ,Suit,West Bengal,Male,75,547,1193,41025,89475,48450
+31/12/2024,Apex Innovations Co.,Fashion ,Suit,Madhya Pradesh,Male,64,918,1161,58752,74304,15552
+01/01/2025,Pure Harmony Health,Fashion ,Suit,Jharkhand,Female,74,965,1235,71410,91390,19980
+02/01/2025,Legacy Travel Ventures,Decor,Car accessories,West Bengal,Female,19,608,1162,11552,22078,10526
+03/01/2025,Pinnacle Media Solutions,Decor,Car accessories,Karnataka,Female,12,864,1228,10368,14736,4368
+04/01/2025,Stellar Design Group,Decor,Car accessories,Delhi,Female,14,579,1270,8106,17780,9674
+05/01/2025,Radiant Tech Solutions,Decor,Car accessories,Maharashtra,Female,13,839,898,10907,11674,767
+06/01/2025,Horizon Ventures Co.,Decor,Car accessories,Punjab,Female,17,825,1472,14025,25024,10999
+07/01/2025,Elite Creative Solutions,Decor,Car accessories,Chhattisgarh,Female,11,944,1052,10384,11572,1188
+08/01/2025,Zenith Wellness Services,Decor,Car accessories,West Bengal,Male,15,827,1316,12405,19740,7335
+09/01/2025,Apex Travel Innovations,Fashion ,Saree,Gujarat,Male,100,667,1499,66700,149900,83200
+10/01/2025,Modern Health Products,Fashion ,Saree,Uttar Pradesh,Male,60,509,933,30540,55980,25440
+11/01/2025,Harmony Finance Group,Fashion ,Saree,Uttar Pradesh,Male,93,814,1223,75702,113739,38037
+12/01/2025,Pure Vision Consulting,Fashion ,Saree,Tamil Nadu,Female,86,567,946,48762,81356,32594
+13/01/2025,Legacy Spectrum Co.,Fashion ,Saree,Tamil Nadu,Male,54,674,1236,36396,66744,30348
+14/01/2025,Pinnacle Design Solutions,Fashion ,Suit,Rajasthan,Male,82,822,887,67404,72734,5330
+15/01/2025,Stellar Media Services,Fashion ,Suit,Uttar Pradesh,Male,98,950,1026,93100,100548,7448
+16/01/2025,Radiant Innovations Group,Fashion ,Suit,Jharkhand,Male,82,916,1297,75112,106354,31242
+17/01/2025,Horizon Path Ventures,Fashion ,Suit,Kerala,Female,66,710,1369,46860,90354,43494
+18/01/2025,Zenith Tech Co.,Fashion ,Suit,Maharashtra,Female,77,922,1195,70994,92015,21021
+19/01/2025,Apex Finance Ventures,Fashion ,Suit,Himachal Pradesh,Female,93,887,1192,82491,110856,28365
+20/01/2025,Pure Harmony Solutions,Decor,Home décor,Uttarakhand,Female,10,519,991,5190,9910,4720
+21/01/2025,Legacy Travel Co.,Decor,Home décor,Assam,Female,20,900,1381,18000,27620,9620
+22/01/2025,Pinnacle Innovations Group,Decor,Home décor,Punjab,Female,19,791,930,15029,17670,2641
+23/01/2025,Stellar Health Services,Decor,Home décor,Chhattisgarh,Female,18,963,1209,17334,21762,4428
+24/01/2025,Radiance Design Co.,Decor,Home décor,West Bengal,Female,19,763,1024,14497,19456,4959
+25/01/2025,Harmony Consulting Group,Decor,Home décor,West Bengal,Female,19,795,1030,15105,19570,4465
+26/01/2025,Zenith Path Solutions,Decor,Home décor,Madhya Pradesh,Female,17,922,1250,15674,21250,5576
+27/01/2025,Apex Educational Group,Decor,Home décor,Jharkhand,Male,16,731,1438,11696,23008,11312
+28/01/2025,Modern Wellness Co.,Decor,Home décor,West Bengal,Male,12,927,969,11124,11628,504
+29/01/2025,Pure Spectrum Innovations,Decor,Home décor,Uttar Pradesh,Male,13,528,1156,6864,15028,8164
+30/01/2025,Legacy Media Solutions,Decor,Home décor,Jharkhand,Male,12,519,1361,6228,16332,10104
+31/01/2025,Pinnacle Travel Co.,Decor,Home décor,Kerala,Male,16,998,1338,15968,21408,5440
+01/02/2025,Stellar Consulting Services,Electronic,Laptop,Maharashtra,Female,30,946,994,28380,29820,1440
+02/02/2025,Radiant Ventures,Electronic,Laptop,Himachal Pradesh,Female,24,580,1163,13920,27912,13992
+03/02/2025,Harmony Tech Co.,Electronic,Laptop,Uttarakhand,Female,30,732,1252,21960,37560,15600
+04/02/2025,Zenith Creative Ventures,Electronic,Laptop,Assam,Male,20,552,1025,11040,20500,9460
+05/02/2025,Apex Health Services,Electronic,Laptop,Punjab,Male,21,876,887,18396,18627,231
+06/02/2025,Pure Vision Media,Electronic,Laptop,Chhattisgarh,Male,27,636,1178,17172,31806,14634
+07/02/2025,Legacy Innovations Group,Electronic,Laptop,West Bengal,Male,21,974,1493,20454,31353,10899
+08/02/2025,Pinnacle Consulting Co.,Electronic,Laptop,West Bengal,Male,30,518,926,15540,27780,12240
+09/02/2025,Stellar Finance Group,Electronic,Laptop,Madhya Pradesh,Female,21,531,938,11151,19698,8547
+10/02/2025,Radiant Solutions Co.,Electronic,Laptop,Jharkhand,Female,22,745,1443,16390,31746,15356
+11/02/2025,Harmony Ventures Group,Electronic,Laptop,Gujarat,Female,26,842,1311,21892,34086,12194
+12/02/2025,Zenith Wellness Co.,Fashion ,Saree,Uttar Pradesh,Female,78,709,992,55302,77376,22074
+13/02/2025,Apex Design Services,Fashion ,Saree,Uttar Pradesh,Female,87,714,1225,62118,106575,44457
+14/02/2025,Modern Travel Solutions,Fashion ,Saree,Tamil Nadu,Female,90,983,953,88470,85770,-2700
+15/02/2025,Pure Health Ventures,Fashion ,Saree,Tamil Nadu,Female,78,789,1155,61542,90090,28548
+16/02/2025,Legacy Spectrum Group,Fashion ,Saree,Rajasthan,Male,74,835,1141,61790,84434,22644
+17/02/2025,Pinnacle Media Ventures,Fashion ,Saree,Uttar Pradesh,Male,94,952,1058,89488,99452,9964
+18/02/2025,Stellar Innovations Group,Fashion ,Saree,Jharkhand,Male,55,558,1020,30690,56100,25410
+19/02/2025,Radiant Educational Co.,Fashion ,Saree,Kerala,Male,56,562,1115,31472,62440,30968
+20/02/2025,Harmony Edge Ventures,Fashion ,Saree,Maharashtra,Female,94,513,947,48222,89018,40796
+21/02/2025,Zenith Tech Solutions,Fashion ,Saree,Himachal Pradesh,Male,76,526,1079,39976,82004,42028
+22/02/2025,Apex Finance Group,Fashion ,Saree,Uttarakhand,Male,61,545,1031,33245,62891,29646
+23/02/2025,Pure Harmony Media,Fashion ,Saree,Assam,Male,99,943,1466,93357,145134,51777
+24/02/2025,Legacy Health Co.,Fashion ,Suit,Punjab,Male,84,738,1177,61992,98868,36876
