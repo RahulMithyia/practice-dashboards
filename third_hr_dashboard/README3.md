@@ -10,7 +10,14 @@ This project focuses on developing an **HR Analytics Dashboard** to uncover key 
 ### 1. Data Extraction
 - Exported the dataset from Power BI's Table view into Excel for flexible manipulation.
 
-### 2. Data Analysis using Pivot Tables
+### 2. Data Cleaning
+- Basic cleanup was performed in Excel.
+- Further data transformation can be done using the **Transform Data** option (in Power BI's **Home** tab), where:
+  - **Duplicate rows** can be removed  
+  - **Null values** can be handled  
+  - **Spelling errors** and **inconsistent formatting** can be corrected easily
+
+### 3. Data Analysis using Pivot Tables
 - Created dynamic Pivot Tables to explore relationships between variables such as:
   - Department vs. Attrition Rate  
   - Job Role vs. Satisfaction Level  
@@ -22,9 +29,10 @@ This project focuses on developing an **HR Analytics Dashboard** to uncover key 
   - Job Satisfaction Levels  
   - Training Hours Completed  
 
-### 3. Data Visualization
-- Used Pivot Charts to visually represent patterns, making insights more accessible.
-- Experimented with different chart types (bar, column, pie, line) to find the most effective visuals for storytelling.
+### 4. Data Visualization
+- After loading and cleaning the data, we created visuals that best explain the overall situation and uncover key insights.
+- Used Pivot Charts and Power BI visuals to represent patterns in the data.
+- Experimented with different chart types (bar, column, pie, line) to enhance interpretability.
 
 ---
 
@@ -45,9 +53,11 @@ This project focuses on developing an **HR Analytics Dashboard** to uncover key 
 ## 📎 Tools Used
 - Microsoft Power BI  
 - Microsoft Excel (Pivot Tables & Pivot Charts)  
+- Power Query (Transform Data)  
 - Basic Data Cleaning and Formatting  
 
+---
 
-
-
-## Note- I have improved the readme by giving my context to chatgpt for better clarification
+## ✍️ Acknowledgment
+I have taken the help of **ChatGPT** to improve the structure and readability of this README file.
+****
